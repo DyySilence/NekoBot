@@ -15,14 +15,21 @@ global.botName      = "NekoBot — DS";
 global.versionBot   = "v1.0.0";
 global.thumbnail    = "https://c.termai.cc/i164/cAhf.jpegg";
 global.jedaPushkontak = 6000;
-global.pairingNumber  = "6283191452244";
+global.pairingNumber  = "17536894334";
 global.timezone     = "Asia/Jakarta";        
 global.groupUrl     = "https://chat.whatsapp.com/Em0vw6hHyy3IcxMa9SNZ3w"; 
-global.websiteUrl   = "https://www.dyysomnia.shop"; 
+global.websiteUrl   = "https://www.dsilence.biz.id"; 
 global.channelJid   = "120363425809110720@newsletter"; 
 global.channelName  = "DS — Channel";    
 global.dev          = "DyySilence";           
 global.apiUrl = "https://api.dyysilence.biz.id/api";
+
+global.ptld = "https://shinx.sensei-wangyy.my.id";   // domain
+global.ptla = "ptla_myFxAN8F4jErIWbNO2gJVOb6x1sr5f1NaukxXOd8QLT";   // ptla
+global.ptlc = "ptlc_I3bIZ4jfaFDgebmooj2WOIMnhtfjSUA8SrZeS3AJEYd";        // ptlc
+global.ptln = "1";                          
+global.ptle = "15";                        
+global.ptll = "1";   
 
 global.dana      = "08138XXXXXXX";
 global.gopay     = "08138XXXXXXX";

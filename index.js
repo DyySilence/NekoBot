@@ -27,6 +27,7 @@ import fs from "fs";
 import crypto from "crypto";
 import moment from "moment-timezone";
 import DataBase from "./lib/database.js";
+import { startAutoDeletePanel } from './plugins/panel/autoDeletePanel.js';
 import serialize, {
   cacheParticipantLids,
   resolveAnyLidToJid,
@@ -554,4 +555,5 @@ async function StartBot() {
   return sock;
 }
 
-StartBot();
+const sock = await StartBot();
+startAutoDeletePanel(sock);

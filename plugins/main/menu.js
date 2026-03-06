@@ -15,7 +15,7 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
 
-const THUMB_URL  = "https://c.termai.cc/i114/2La6.jpegg";
+const THUMB_URL  = "https://c.termai.cc/i121/iYXt.jpg";
 const THUMB_LIST = [
   "https://c.termai.cc/i197/hylmBwB.jpeg",
   "https://c.termai.cc/i167/KawFG.jpeg",
@@ -77,7 +77,7 @@ function getCategoryList(commands) {
 }
 
 function prettyFolderTitle(folder) {
-  const EMOJI = {converter:"🔄",jpm:"🛠️",pushkontak:"📲", owner:"👑",main:"🏠",tools:"⚙️",games:"🎮",fun:"😁",download:"📥",anime: "⛩️",search:"🔍",group:"👥",ai:"👾",info:"ℹ️",user:"👤","ai-image":"🖼️",downloader:"📥",random:"🎲",nsfw:"🔞",primbon:"🙏",sticker:"🎨",media:"📸" };
+  const EMOJI = {converter:"🔄",jpm:"🛠️",pushkontak:"📲", owner:"👑",main:"🏠",tools:"⚙️",games:"🎮",fun:"😁",download:"📥",anime: "⛩️",search:"🔍",group:"👥",ai:"👾",info:"ℹ️",user:"👤","ai-image":"🖼️",downloader:"📥",random:"🎲",nsfw:"🔞",primbon:"🙏",panel:"🗃",media:"📸" };
   const t = String(folder || "").toLowerCase().trim();
   return `${EMOJI[t] || "📂"} ${t.toUpperCase().replace(/_/g, " ")}`;
 }
