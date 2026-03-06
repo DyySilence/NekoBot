@@ -116,7 +116,25 @@
       "premium": false
     },
     "6283853142299@lid": {
-      "premium": false
+      "premium": false,
+      "judiStats": {
+        "totalGambles": 3,
+        "totalWins": 2,
+        "totalSpent": 180,
+        "totalEarned": 210,
+        "biggestWin": 150,
+        "biggestLoss": 100,
+        "jackpotHits": 1,
+        "currentStreak": 2,
+        "bestStreak": 2
+      },
+      "judiWinrate": 100,
+      "coin": 150,
+      "exp": 80,
+      "gameStats": {
+        "wins": 1,
+        "losses": 0
+      }
     },
     "6283191452244@lid": {
       "premium": false
@@ -125,10 +143,22 @@
       "premium": false
     },
     "48340075044865@lid": {
-      "premium": false
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
     },
     "120363425809110720@newsletter": {
-      "premium": false
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
     },
     "179272387936276@lid": {
       "premium": false
@@ -137,7 +167,25 @@
       "premium": false
     },
     "17536894334@lid": {
-      "premium": false
+      "premium": false,
+      "coin": 0,
+      "exp": 80,
+      "gameStats": {
+        "wins": 1,
+        "losses": 0
+      },
+      "judiStats": {
+        "totalGambles": 1,
+        "totalWins": 0,
+        "totalSpent": 120,
+        "totalEarned": 0,
+        "biggestWin": 0,
+        "biggestLoss": 120,
+        "jackpotHits": 0,
+        "currentStreak": 0,
+        "bestStreak": 0
+      },
+      "judiWinrate": 30
     },
     "30829996699743@lid": {
       "premium": false
@@ -150,6 +198,14 @@
     },
     "120363408261992472@newsletter": {
       "premium": false
+    },
+    "6283853142299@s.whatsapp.net": {
+      "coin": 120,
+      "exp": 80,
+      "gameStats": {
+        "wins": 1,
+        "losses": 0
+      }
     }
   },
   "groups": {
@@ -183,7 +239,7 @@
           "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
         },
         "6283853142299": {
-          "count": 509,
+          "count": 552,
           "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
         },
         "6285191222582": {
@@ -195,7 +251,7 @@
           "name": "i am b0t"
         },
         "17536894334": {
-          "count": 12,
+          "count": 24,
           "name": "b0t for you"
         }
       },
@@ -211,7 +267,7 @@
         }
       ],
       "autoreact": false,
-      "welcomeText": "off",
+      "welcomeText": "> 🎰 *SLOT MACHINE*\n\n> 💰 Koin kamu: 0\n> 🎯 Winrate: 30%\n\n> 📝 *COMMANDS:*\n> .judi <bet> - Spin 1x\n> .judi <bet> 3 - Spin 3x\n> .judi <bet> 5 - Spin 5x\n> .judi <bet> 10 - Spin 10x\n> .judi stats - Statistik\n\n> 💎 *MULTIPLIER:*\n> 2 sama = 1.5x | 3 sama = 2x\n> 🎰 Jackpot = 10x | 💎 = 5x | 7️⃣ = 4x | ⭐ = 3x",
       "antidelete": true,
       "antiforward": true,
       "antimedia": {
@@ -230,6 +286,8 @@
         "10": 6,
         "11": 13,
         "12": 13,
+        "13": 19,
+        "14": 36,
         "18": 9,
         "19": 11,
         "21": 22,
@@ -245,7 +303,8 @@
         "addedAt": 1772755346353
       },
       "antitagsw": true,
-      "warnsAntitagsw": {}
+      "warnsAntitagsw": {},
+      "leave": true
     }
   },
   "settings": {
@@ -255,6 +314,6 @@
       "120363419672679140@g.us"
     ],
     "mode": "public",
-    "hits": 599
+    "hits": 650
   }
 }
