@@ -1,0 +1,260 @@
+{
+  "users": {
+    "6283132524486@s.whatsapp.net": {
+      "premium": false
+    },
+    "628386868057@s.whatsapp.net": {
+      "premium": false
+    },
+    "6288232994375@s.whatsapp.net": {
+      "premium": false
+    },
+    "6283843620621@s.whatsapp.net": {
+      "premium": false
+    },
+    "6285274198259@s.whatsapp.net": {
+      "premium": false
+    },
+    "6282295391403@s.whatsapp.net": {
+      "premium": false
+    },
+    "6285833264600@s.whatsapp.net": {
+      "premium": false
+    },
+    "120363284474186038@newsletter": {
+      "premium": false
+    },
+    "120363160757210405@newsletter": {
+      "premium": false
+    },
+    "30975992061967@lid": {
+      "premium": false
+    },
+    "120363311609903865@newsletter": {
+      "premium": false
+    },
+    "1327782486129@lid": {
+      "premium": false
+    },
+    "120363402019414675@newsletter": {
+      "premium": false
+    },
+    "73260012183662@lid": {
+      "premium": false
+    },
+    "219846725902525@lid": {
+      "premium": false
+    },
+    "120363404446053939@newsletter": {
+      "premium": false
+    },
+    "120363421351741485@newsletter": {
+      "premium": false
+    },
+    "120363419967954188@newsletter": {
+      "premium": false
+    },
+    "6283866621434@s.whatsapp.net": {
+      "premium": false
+    },
+    "6283164465401@s.whatsapp.net": {
+      "premium": false
+    },
+    "6282234563336@s.whatsapp.net": {
+      "premium": false
+    },
+    "232469836087361@lid": {
+      "premium": false
+    },
+    "220263656472711@lid": {
+      "premium": false
+    },
+    "120363403502978738@newsletter": {
+      "premium": false
+    },
+    "120363423292825072@newsletter": {
+      "premium": false
+    },
+    "120363305826981567@newsletter": {
+      "premium": false
+    },
+    "120363419584291791@newsletter": {
+      "premium": false
+    },
+    "120363400363337568@newsletter": {
+      "premium": false
+    },
+    "120363397080669554@newsletter": {
+      "premium": false
+    },
+    "120363421366320253@newsletter": {
+      "premium": false
+    },
+    "115878720966785@lid": {
+      "premium": false
+    },
+    "120363400297473298@newsletter": {
+      "premium": false
+    },
+    "120363426611097080@newsletter": {
+      "premium": false
+    },
+    "250555591045184@lid": {
+      "premium": false
+    },
+    "120363403661681272@newsletter": {
+      "premium": false
+    },
+    "48911691583739@lid": {
+      "premium": false
+    },
+    "74664298684597@lid": {
+      "premium": false,
+      "antidelete": true
+    },
+    "71559138005197@lid": {
+      "premium": false
+    },
+    "6283853142299@lid": {
+      "premium": false
+    },
+    "6283191452244@lid": {
+      "premium": false
+    },
+    "6285191222582@lid": {
+      "premium": false
+    },
+    "48340075044865@lid": {
+      "premium": false
+    },
+    "120363425809110720@newsletter": {
+      "premium": false
+    },
+    "179272387936276@lid": {
+      "premium": false
+    },
+    "228853087744021@lid": {
+      "premium": false
+    },
+    "17536894334@lid": {
+      "premium": false
+    },
+    "30829996699743@lid": {
+      "premium": false
+    },
+    "26435607630061@lid": {
+      "premium": false
+    },
+    "120363421160571057@newsletter": {
+      "premium": false
+    },
+    "120363408261992472@newsletter": {
+      "premium": false
+    }
+  },
+  "groups": {
+    "120363423363418172@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363419672679140@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363423858419130@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": true,
+      "muted": {
+        "6285191222582@s.whatsapp.net": true
+      },
+      "warns": {
+        "6285191222582@s.whatsapp.net": 0,
+        "6285191222582": 4
+      },
+      "stats": {
+        "74664298684597": {
+          "count": 59,
+          "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
+        },
+        "6283853142299": {
+          "count": 509,
+          "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
+        },
+        "6285191222582": {
+          "count": 28,
+          "name": "i am b0t"
+        },
+        "71559138005197": {
+          "count": 1,
+          "name": "i am b0t"
+        },
+        "17536894334": {
+          "count": 12,
+          "name": "b0t for you"
+        }
+      },
+      "schedule": {
+        "autoClose": "15:13"
+      },
+      "reminders": [
+        {
+          "id": "QXCVU",
+          "time": 1772667648516,
+          "message": "MEMEK BAU",
+          "by": "6283853142299@lid"
+        }
+      ],
+      "autoreact": false,
+      "welcomeText": "off",
+      "antidelete": true,
+      "antiforward": true,
+      "antimedia": {
+        "imageMessage": true,
+        "image": true,
+        "video": false,
+        "audio": false,
+        "document": false,
+        "sticker": false
+      },
+      "hourlyStats": {
+        "0": 16,
+        "1": 1,
+        "8": 6,
+        "9": 4,
+        "10": 6,
+        "11": 13,
+        "12": 13,
+        "18": 9,
+        "19": 11,
+        "21": 22,
+        "22": 27,
+        "23": 25
+      },
+      "statsSince": 1772735335070,
+      "banchat": false,
+      "sewa": {
+        "active": true,
+        "expiry": 1772841746353,
+        "addedBy": "6283853142299@lid",
+        "addedAt": 1772755346353
+      },
+      "antitagsw": true,
+      "warnsAntitagsw": {}
+    }
+  },
+  "settings": {
+    "owner": [],
+    "list": {},
+    "bljpm": [
+      "120363419672679140@g.us"
+    ],
+    "mode": "public",
+    "hits": 599
+  }
+}
