@@ -20,7 +20,9 @@ import {
   generateWAMessageFromContent,
   generateWAMessage,
   generateMessageID,
+  makeInMemoryStore,
 } from "baileys";
+
 import chalk from "chalk";
 import Pino from "pino";
 import fs from "fs";
@@ -41,10 +43,12 @@ import serialize, {
 import { imageToWebp, videoToWebp } from "./lib/mediaHelper.js";
 import messageHandler from "./lib/handler.js";
 import { reactToNewMessage } from "./plugins/group/autoreact.js";
-
+import { startAutoBackup } from './plugins/owner/autoBackup.js';
 const database = new DataBase();
 const deletedMsgCache = new Map();
 global.groupMetadataCache = new Map();
+const store = makeInMemoryStore({});
+global.statusStore = new Map();
 
 const loadDb = async () => {
   const load = (await database.read()) ?? {};
@@ -81,11 +85,9 @@ function resolveParticipants(participants = []) {
   return participants.map((p) => getParticipantJid(p));
 }
 
-// ─── Resolve LID ke JID @s.whatsapp.net lewat participants cache ───
 function resolveSenderToPhone(rawJid, participants = []) {
   if (!rawJid) return rawJid;
 
-  // Sudah nomor biasa, langsung return
   if (rawJid.endsWith("@s.whatsapp.net") && !rawJid.includes(":")) {
     const num = rawJid.replace("@s.whatsapp.net", "");
     if (num.length <= 15) return rawJid;
@@ -93,24 +95,20 @@ function resolveSenderToPhone(rawJid, participants = []) {
 
   const rawNum = rawJid.replace(/@.*$/, "").replace(/[^0-9]/g, "");
 
-  // Cari di participants
   for (const p of participants) {
     const ids = [p.id, p.jid, p.lid].filter(Boolean);
     for (const id of ids) {
       const idNum = id.replace(/@.*$/, "").replace(/[^0-9]/g, "");
       if (idNum && idNum === rawNum) {
-        // Cari id yang bukan @lid
         const realId = ids.find((i) => i.endsWith("@s.whatsapp.net") && !i.includes(":"));
         if (realId) return realId;
       }
     }
   }
 
-  // Fallback: coba resolveAnyLidToJid
   const resolved = resolveAnyLidToJid(rawJid, participants);
   if (resolved && resolved.endsWith("@s.whatsapp.net")) return resolved;
 
-  // Fallback: paksa convert @lid → @s.whatsapp.net
   if (rawJid.endsWith("@lid")) return lidToJid(rawJid);
 
   return rawJid;
@@ -137,6 +135,8 @@ async function StartBot() {
       return metadata;
     },
   });
+
+  store.bind(sock.ev);
 
   if (!sock.authState.creds.registered) {
     console.log(chalk.white(`• Requesting Pairing Code → ${global.pairingNumber?.trim()}`));
@@ -238,6 +238,19 @@ async function StartBot() {
   };
 
   sock.ev.on("messages.upsert", async ({ messages }) => {
+    for (const msg of messages) {
+      if (msg.key?.remoteJid === "status@broadcast" && msg.message) {
+        const sender = msg.key?.participant || msg.key?.remoteJid;
+        if (sender) {
+          if (!global.statusStore.has(sender)) global.statusStore.set(sender, []);
+          const arr = global.statusStore.get(sender);
+          arr.push(msg);
+          if (arr.length > 20) arr.shift();
+          global.statusStore.set(sender, arr);
+        }
+      }
+    }
+
     const msg = messages[0];
     if (!msg?.message) return;
     deletedMsgCache.set(msg.key.id, msg);
@@ -311,7 +324,7 @@ async function StartBot() {
                 mentions: [senderJid],
               });
             }
-            return; 
+            return;
           }
         }
       }
@@ -557,3 +570,4 @@ async function StartBot() {
 
 const sock = await StartBot();
 startAutoDeletePanel(sock);
+startAutoBackup(sock);

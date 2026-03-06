@@ -1,18 +1,21 @@
 /**
  * Jangan dijual.
  * Dilarang menghapus credit developer.
+ *
  * Developer : DyySilence
  * Copyright © 2026
  * Contact   : https://whatsapp.com/channel/0029Vb7uLYxIHphOIWOY8727
  */
 
-import fs from "fs";
+import fs   from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
 const rootDir    = path.resolve(__dirname, "..", "..");
+
+const INTERVAL_MS = 2 * 60 * 60 * 1000;
 
 const SKIP = new Set([
   "node_modules",
@@ -24,7 +27,8 @@ const SKIP = new Set([
 ]);
 
 const ALLOWED_EXT = new Set([
-  ".js", ".json", ".md", ".txt", ".env", ".yaml", ".yml", ".mp3", ".jpeg", ".jpg", ".png", ".webp"
+  ".js", ".json", ".md", ".txt", ".env", ".yaml", ".yml",
+  ".mp3", ".jpeg", ".jpg", ".png", ".webp",
 ]);
 
 function shouldSkip(name) {
@@ -90,73 +94,71 @@ async function createZip(files) {
   }
 }
 
-const handler = async (m, { conn }) => {
-  await m.react("⏳");
+async function runBackup(sock) {
+  const ownerNum = (global.owner || "").replace(/[^0-9]/g, "");
+  if (!ownerNum) {
+    console.error("[AutoBackup] global.owner tidak diset, backup dibatalkan.");
+    return;
+  }
+  const ownerJid = ownerNum + "@s.whatsapp.net";
+
+  console.log("[AutoBackup] Mulai backup otomatis...");
 
   try {
     const files = getAllFiles(rootDir);
-
     if (!files.length) {
-      await m.react("❌");
-      return m.reply("❌ Tidak ada file yang bisa di-backup!");
+      console.warn("[AutoBackup] Tidak ada file untuk di-backup.");
+      return;
     }
 
     const totalSize = files.reduce((acc, { full }) => {
       try { return acc + fs.statSync(full).size; } catch { return acc; }
     }, 0);
 
-    const cats = [...new Set(
-      files.map(({ rel }) => rel.split(path.sep)[0]).filter(Boolean)
-    )].sort();
-
-    await m.reply(
-      `⏳ *Membuat backup...*\n\n` +
-      `📄 *File:* ${files.length}\n` +
-      `💾 *Total size:* ${formatSize(totalSize)}\n` +
-      `📂 *Folder:* ${cats.join(", ")}\n\n` +
-      `_Mohon tunggu..._`
-    );
-
     const zipBuffer = await createZip(files);
-    const timestamp = new Date().toISOString().replace(/[:.]/g, "-").slice(0, 19);
     const isZip     = zipBuffer[0] === 0x50 && zipBuffer[1] === 0x4B;
     const ext       = isZip ? "zip" : "json";
-    const fileName  = `backup-dsSimple-${timestamp}.${ext}`;
+    const timestamp = new Date().toISOString().replace(/[:.]/g, "-").slice(0, 19);
+    const fileName  = `auto-backup-${timestamp}.${ext}`;
 
     const tmpDir  = path.join(rootDir, "sampah");
     const tmpPath = path.join(tmpDir, fileName);
     if (!fs.existsSync(tmpDir)) fs.mkdirSync(tmpDir, { recursive: true });
     fs.writeFileSync(tmpPath, zipBuffer);
 
-    const folderList = cats.map(c => `• ${c}/`).join("\n");
+    const cats      = [...new Set(files.map(({ rel }) => rel.split(path.sep)[0]).filter(Boolean))].sort();
+    const waktu     = new Date().toLocaleString("id-ID", { timeZone: global.timezone || "Asia/Jakarta" });
 
-    await conn.sendMessage(m.chat, {
+    await sock.sendMessage(ownerJid, {
       document: fs.readFileSync(tmpPath),
       mimetype: isZip ? "application/zip" : "application/json",
       fileName,
       caption:
-        `✅ *BACKUP SELESAI*\n\n` +
+        `🔄 *AUTO BACKUP*\n\n` +
         `📦 *File:* \`${fileName}\`\n` +
         `📄 *Total file:* ${files.length}\n` +
-        `💾 *Size:* ${formatSize(zipBuffer.length)}\n` +
-        `🕐 *Waktu:* ${new Date().toLocaleString("id-ID", { timeZone: global.timezone || "Asia/Jakarta" })}\n\n` +
-        `*📂 Isi backup:*\n${folderList}\n\n` +
+        `💾 *Raw size:* ${formatSize(totalSize)}\n` +
+        `📦 *Zip size:* ${formatSize(zipBuffer.length)}\n` +
+        `🕐 *Waktu:* ${waktu}\n\n` +
+        `*📂 Isi backup:*\n${cats.map(c => `• ${c}/`).join("\n")}\n\n` +
         `_❌ Tidak dibackup: session · node_modules · sampah · tmp_`,
-    }, { quoted: m.fakeObj || m });
+    });
 
     fs.unlinkSync(tmpPath);
-    await m.react("✅");
+    console.log(`[AutoBackup] ✅ Backup terkirim ke owner (${ownerNum}) — ${fileName} (${formatSize(zipBuffer.length)})`);
 
   } catch (err) {
-    console.error("[Backup] Error:", err);
-    await m.react("❌");
-    await m.reply(`❌ *Backup gagal!*\n\nError: ${err.message}`);
+    console.error("[AutoBackup] ❌ Gagal:", err.message);
+    try {
+      const ownerJid = (global.owner || "").replace(/[^0-9]/g, "") + "@s.whatsapp.net";
+      await sock.sendMessage(ownerJid, {
+        text: `❌ *AUTO BACKUP GAGAL*\n\nError: ${err.message}\n🕐 ${new Date().toLocaleString("id-ID", { timeZone: global.timezone || "Asia/Jakarta" })}`,
+      });
+    } catch {}
   }
-};
+}
 
-handler.command     = ["backup", "backupsc"];
-handler.category    = "owner";
-handler.owner       = true;
-handler.description = "Backup semua file bot kecuali node_modules, session, sampah, tmp";
-
-export default handler;
+export function startAutoBackup(sock) {
+  console.log(`[AutoBackup] Scheduler aktif — interval 2 jam`);
+  setInterval(() => runBackup(sock), INTERVAL_MS);
+}

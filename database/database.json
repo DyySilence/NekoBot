@@ -140,7 +140,13 @@
       "premium": false
     },
     "6285191222582@lid": {
-      "premium": false
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
     },
     "48340075044865@lid": {
       "premium": false,
@@ -206,6 +212,321 @@
         "wins": 1,
         "losses": 0
       }
+    },
+    "6285806360312@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6281632133381@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6287754407675@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "628886254942@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6285693463964@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "628139354321@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6285275242905@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6281220213469@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6283141882126@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6282338702226@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6285810287828@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6283857397797@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "628136153010@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6283134595320@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "92393940467758@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6285720964463@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6283829426936@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6283836530522@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6285246646669@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6283182850342@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "120363423858419130@g.us": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6283184330923@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6281264871174@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6285136899527@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6285122576015@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6285117351310@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "120363418003716250@newsletter": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "120363425755626871@g.us": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6288296805170@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6285752038389@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6282194737560@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "628991977555@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "628999889149@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "224747266801835@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
+    },
+    "6285173302559@lid": {
+      "premium": false,
+      "coin": 0,
+      "exp": 0,
+      "gameStats": {
+        "wins": 0,
+        "losses": 0
+      }
     }
   },
   "groups": {
@@ -239,11 +560,11 @@
           "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
         },
         "6283853142299": {
-          "count": 563,
+          "count": 652,
           "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
         },
         "6285191222582": {
-          "count": 28,
+          "count": 44,
           "name": "i am b0t"
         },
         "71559138005197": {
@@ -253,6 +574,10 @@
         "17536894334": {
           "count": 31,
           "name": "b0t for you"
+        },
+        "120363423858419130": {
+          "count": 1,
+          "name": ""
         }
       },
       "schedule": {
@@ -291,10 +616,10 @@
         "15": 6,
         "16": 12,
         "18": 9,
-        "19": 11,
-        "21": 22,
-        "22": 27,
-        "23": 25
+        "19": 35,
+        "21": 50,
+        "22": 53,
+        "23": 53
       },
       "statsSince": 1772735335070,
       "banchat": false,
@@ -304,9 +629,194 @@
         "addedBy": "6283853142299@lid",
         "addedAt": 1772755346353
       },
-      "antitagsw": true,
-      "warnsAntitagsw": {},
-      "leave": true
+      "antitagsw": false,
+      "warnsAntitagsw": {
+        "6285191222582": 1
+      },
+      "leave": true,
+      "memberNames": {},
+      "autoRespon": {}
+    },
+    "120363145666688244@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false,
+      "stats": {
+        "6285806360312": {
+          "count": 7,
+          "name": "Nino. sr"
+        },
+        "6281632133381": {
+          "count": 14,
+          "name": "•さくら🦇"
+        },
+        "628886254942": {
+          "count": 5,
+          "name": "TuanMuda"
+        },
+        "6285693463964": {
+          "count": 9,
+          "name": "Chil"
+        },
+        "628139354321": {
+          "count": 2,
+          "name": "Naufalrizkulloh"
+        },
+        "6285275242905": {
+          "count": 9,
+          "name": "⍟I'≋M  ≋F≋O≋R  ≋Y≋O≋U≋⍟"
+        },
+        "6281220213469": {
+          "count": 23,
+          "name": "my name is maulidina 😌😌"
+        },
+        "6283141882126": {
+          "count": 11,
+          "name": "๑⁠♡cil♡⁠๑"
+        },
+        "6283853142299": {
+          "count": 3,
+          "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
+        }
+      },
+      "hourlyStats": {
+        "17": 8,
+        "18": 75
+      },
+      "statsSince": 1772819953781
+    },
+    "120363424000170113@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false,
+      "stats": {
+        "6287754407675": {
+          "count": 26,
+          "name": "Yusuf"
+        },
+        "6282338702226": {
+          "count": 10,
+          "name": "Pelooww"
+        },
+        "6283857397797": {
+          "count": 17,
+          "name": "i'am ryan and not femboy"
+        },
+        "628136153010": {
+          "count": 4,
+          "name": "Yass"
+        },
+        "6283134595320": {
+          "count": 2,
+          "name": "—pa|nn"
+        },
+        "6285720964463": {
+          "count": 6,
+          "name": "𝗸𝗶𝘁𝘀𝘂𝗺é.."
+        },
+        "6283829426936": {
+          "count": 6,
+          "name": "kyfck"
+        },
+        "6285246646669": {
+          "count": 3,
+          "name": "爱|•SʜɪSHUI"
+        },
+        "6283853142299": {
+          "count": 5,
+          "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
+        }
+      },
+      "hourlyStats": {
+        "17": 2,
+        "18": 77
+      },
+      "statsSince": 1772819953921
+    },
+    "120363425755626871@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false,
+      "stats": {
+        "6283853142299": {
+          "count": 56,
+          "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
+        },
+        "6285810287828": {
+          "count": 16,
+          "name": "ディカ"
+        },
+        "6283836530522": {
+          "count": 3,
+          "name": "Ryy?, Yes Mom?"
+        },
+        "6283182850342": {
+          "count": 2,
+          "name": "Muklas Biology"
+        },
+        "6283184330923": {
+          "count": 1,
+          "name": "undefined"
+        },
+        "6281264871174": {
+          "count": 18,
+          "name": "Jamilaah"
+        },
+        "6285136899527": {
+          "count": 11,
+          "name": "الأَرْض`"
+        },
+        "6285122576015": {
+          "count": 7,
+          "name": "ＧｅｎＺ𓆌"
+        },
+        "6285117351310": {
+          "count": 1,
+          "name": "See You Kyou4nn"
+        },
+        "120363425755626871": {
+          "count": 2,
+          "name": ""
+        },
+        "6288296805170": {
+          "count": 33,
+          "name": "waki waki"
+        },
+        "6285752038389": {
+          "count": 3,
+          "name": "Ikyy"
+        },
+        "6282194737560": {
+          "count": 18,
+          "name": "gé"
+        },
+        "628991977555": {
+          "count": 10,
+          "name": "é"
+        },
+        "628999889149": {
+          "count": 1,
+          "name": "Alputraa"
+        },
+        "6285173302559": {
+          "count": 3,
+          "name": "irfan nofiyanto"
+        }
+      },
+      "hourlyStats": {
+        "17": 1,
+        "18": 41,
+        "19": 23,
+        "20": 20,
+        "21": 66,
+        "22": 24,
+        "23": 10
+      },
+      "statsSince": 1772819961185,
+      "memberNames": {}
     }
   },
   "settings": {
@@ -316,7 +826,7 @@
       "120363419672679140@g.us"
     ],
     "mode": "public",
-    "hits": 666,
+    "hits": 824,
     "resellerGroups": [
       "120363423858419130@g.us"
     ],
@@ -327,6 +837,14 @@
         "createdAt": 1772816170156,
         "expiry": 1775408170156
       }
-    }
+    },
+    "channels": [
+      {
+        "name": "ch1",
+        "jid": "120363425809110720@newsletter",
+        "addedAt": 1772835781321,
+        "addedBy": "6283853142299@lid"
+      }
+    ]
   }
 }

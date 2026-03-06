@@ -77,7 +77,13 @@ function getCategoryList(commands) {
 }
 
 function prettyFolderTitle(folder) {
-  const EMOJI = {converter:"🔄",jpm:"🛠️",pushkontak:"📲", owner:"👑",main:"🏠",tools:"⚙️",games:"🎮",fun:"😁",download:"📥",anime: "⛩️",search:"🔍",group:"👥",ai:"👾",info:"ℹ️",user:"👤","ai-image":"🖼️",downloader:"📥",random:"🎲",nsfw:"🔞",primbon:"🙏",panel:"🗃",media:"📸" };
+  const EMOJI = {
+    "converter":"🔄","jpm":"🛠️","pushkontak":"📲","owner":"👑","main":"🏠",
+    "tools":"⚙️","games":"🎮","fun":"😁","download":"📥","anime":"⛩️",
+    "search":"🔍","group":"👥","ai":"👾","info":"ℹ️","ai-image":"🖼️",
+    "jpmchannel":"📮","downloader":"📥","random":"🎲","nsfw":"🔞",
+    "primbon":"🙏","panel":"🗃️","media":"📸"
+  };
   const t = String(folder || "").toLowerCase().trim();
   return `${EMOJI[t] || "📂"} ${t.toUpperCase().replace(/_/g, " ")}`;
 }
