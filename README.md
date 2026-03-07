@@ -18,8 +18,19 @@
 ## 📸 Preview
 
 <div align="center">
-<img src="https://c.termai.cc/i186/82BEo5.jpg" width="320px" style="border-radius: 12px"/>
+<img src="https://c.termai.cc/i186/82BEo5.jpg" width="320px"/>
 </div>
+
+---
+
+## 💡Keunggulan?
+
+- 📦 *Script Base WhatsApp Bot MD*
+- 🧩 *Type Module (ESM) Plugins*
+- 🎨 *Tampilan Kece — Simple*
+- 🔗 *Sistem LID — JID yang robust*
+- ⚡ *Hot Reload Plugin*
+- 🗃️ *Satu Class Database Support JSON dan MongoDB*
 
 ---
 
@@ -80,14 +91,12 @@ npm start
 - Edit `set/config.js` langsung dari File Manager panel
 - Isi `global.owner` dan `global.pairingNumber` dengan nomor kamu
 
-### 4. Install & Jalankan
+### 4. Otomatis Install & Jalankan Di Startup
+```bash
+npm start
 ```
-# Di Startup ketik:
-npm 
-start
-```
-- Lalu Klik **Start** — kode pairing akan muncul di console
-- Masukkan kode di WhatsApp → Perangkat Tertaut → Tautkan Perangkat
+- Klik **Start** di Console — kode pairing akan muncul di console
+- Masukkan kode di WhatsApp → **Perangkat Tertaut** → **Tautkan Perangkat**
 
 > 💡 Butuh panel? Hubungi creator — tersedia dengan garansi & pengajaran penuh.
 
