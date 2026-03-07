@@ -39,8 +39,10 @@ const handler = async (m, { conn, text, command }) => {
 
   const res = resourceMap[command];
   if (!res) return m.reply('> ❌ Paket tidak dikenali.');
+
   const usernem = text.split(',')[0].trim().toLowerCase();
   if (!usernem) return m.reply(`> 💡 Contoh: \`${global.prefix}${command} username\``);
+
   const ownerJid = getOwnerJid();
   if (!ownerJid) {
     return m.reply('> ❌ *Nomor owner belum diset di config.js (`global.owner`)*');
@@ -69,30 +71,45 @@ const handler = async (m, { conn, text, command }) => {
       return m.reply(`> ❌ Gagal buat user: \`${JSON.stringify(userData.errors[0])}\``);
     }
 
-    const user       = userData.attributes;
-    const nestid     = getNestId();
-    const egg        = getEgg();
-    const loc        = getLoc();
-    const now        = Date.now();
+    const user    = userData.attributes;
+    const nestid  = getNestId();
+    const egg     = getEgg();
+    const loc     = getLoc();
+    const now     = Date.now();
+
     const eggData    = await ptlFetch(`/api/application/nests/${nestid}/eggs/${egg}`);
-    const startupCmd = eggData?.attributes?.startup || 'npm start';
+    const startupCmd = eggData?.attributes?.startup || '/usr/local/bin/${CMD_RUN}';
+    const eggEnv     = eggData?.attributes?.relationships?.variables?.data ?? [];
+
+    const environment = {
+      INST:        'npm',
+      USER_UPLOAD: '0',
+      AUTO_UPDATE: '0',
+      CMD_RUN:     'npm start',
+    };
+
+    for (const v of eggEnv) {
+      const envVar = v?.attributes?.env_variable;
+      const defVal = v?.attributes?.default_value;
+      if (envVar && !(envVar in environment) && defVal !== undefined) {
+        environment[envVar] = defVal;
+      }
+    }
 
     const serverData = await ptlFetch('/api/application/servers', 'POST', {
       name,
       description: `Dibuat: ${fmtDate(now)} | Expired: ${expiredDate(now, 30)}`,
-      user: user.id,
-      egg:  parseInt(egg),
+      user:         user.id,
+      egg:          parseInt(egg),
       docker_image: 'ghcr.io/parkervcp/yolks:nodejs_20',
-      startup: startupCmd,
-      environment: {
-        INST: 'npm', USER_UPLOAD: '0', AUTO_UPDATE: '0', CMD_RUN: 'npm start',
-      },
-      limits: { memory: ram, swap: 0, disk, io: 500, cpu },
+      startup:      startupCmd,
+      environment,
+      limits:         { memory: ram, swap: 0, disk, io: 500, cpu },
       feature_limits: { databases: 5, backups: 5, allocations: 5 },
       deploy: {
-        locations: [parseInt(loc)],
+        locations:    [parseInt(loc)],
         dedicated_ip: false,
-        port_range: [],
+        port_range:   [],
       },
     });
 
@@ -124,8 +141,10 @@ const handler = async (m, { conn, text, command }) => {
     await conn.sendMessage(m.chat, {
       text: `> ✅ *Server berhasil dibuat!*\n> 📤 Detail dikirim ke nomor owner supaya menghindari spam pada nomor bot.`,
     }, { quoted: m.fakeObj || m });
+
     await sendPanelInfo(conn, ownerJid, teks, username, password);
     await m.react('✅');
+
   } catch (err) {
     await m.react('❌');
     m.reply(`> ❌ Terjadi kesalahan: ${err.message}`);
@@ -141,3 +160,4 @@ handler.category    = 'panel';
 handler.description = 'Buat server panel Pterodactyl (owner & reseller group)';
 
 export default handler;
+
