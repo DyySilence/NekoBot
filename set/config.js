@@ -1,3 +1,4 @@
+
 /**
  * Jangan dijual.
  * Dilarang menghapus credit developer.
@@ -11,8 +12,8 @@ global.owner        = "6283853142299";
 global.namaOwner    = "DSilence";
 global.linkOwner    = "https://t.me/DyySilence";
 global.prefix       = ".";
-global.botName      = "NekoBot — DS";
-global.versionBot   = "v1.0.0";
+global.botName      = "NekoBot";
+global.versionBot   = "v1.0.2";
 global.thumbnail    = "https://c.termai.cc/i164/cAhf.jpegg";
 global.jedaPushkontak = 6000;
 global.pairingNumber  = "17536894334";
@@ -27,6 +28,7 @@ global.apiUrl = "https://api.dyysilence.biz.id/api";
 global.ptld = "https://";   // domain
 global.ptla = "ptla_";   // ptla
 global.ptlc = "ptlc_";        // ptlc
+
 global.ptln = "5";                          
 global.ptle = "15";                        
 global.ptll = "1";   
