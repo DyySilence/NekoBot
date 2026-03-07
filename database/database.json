@@ -560,7 +560,7 @@
           "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
         },
         "6283853142299": {
-          "count": 652,
+          "count": 654,
           "name": "dyy̧͈͇̘͎̫͙̰̗̩silencȩ̣̰͓̻͎͡—ん"
         },
         "6285191222582": {
@@ -604,7 +604,7 @@
         "sticker": false
       },
       "hourlyStats": {
-        "0": 16,
+        "0": 18,
         "1": 1,
         "8": 6,
         "9": 4,
@@ -623,12 +623,6 @@
       },
       "statsSince": 1772735335070,
       "banchat": false,
-      "sewa": {
-        "active": true,
-        "expiry": 1772841746353,
-        "addedBy": "6283853142299@lid",
-        "addedAt": 1772755346353
-      },
       "antitagsw": false,
       "warnsAntitagsw": {
         "6285191222582": 1
@@ -826,7 +820,7 @@
       "120363419672679140@g.us"
     ],
     "mode": "public",
-    "hits": 824,
+    "hits": 827,
     "resellerGroups": [
       "120363423858419130@g.us"
     ],

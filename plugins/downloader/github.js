@@ -112,7 +112,7 @@ const handler = async (m, { conn, args, text, command }) => {
           `> 📝 *Format:* ${ext}\n` +
           `> ⚡ *Energy:* -15⚡\n\n` +
           `> ✅ Download berhasil!`,
-      }, { quoted: m });
+      }, { quoted: m.fakeObj || m });
 
       if (loadingMsg?.key) await conn.sendMessage(chatId, { delete: loadingMsg.key });
       await m.react('✅');

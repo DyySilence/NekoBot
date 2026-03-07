@@ -190,7 +190,7 @@ const handler = async (m, { conn, text }) => {
         mimetype: 'audio/mpeg',
         fileName,
         ptt:      false,
-      }, { quoted: m });
+      }, { quoted: m.fakeObj || m });
     } else {
       await conn.sendMessage(m.chat, {
         document: buffer,
