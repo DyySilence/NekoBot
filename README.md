@@ -126,7 +126,7 @@ https://api.dyysilence.biz.id/api
 
 ---
 
-## 🙏 Credits
+##tqto
 
 - **whyu** — Source / Inspired By
 - **Baileys Team** — Library WA Multi Device
