@@ -8,41 +8,33 @@
  */
 
 const handler = async (m, { conn }) => {
+  await m.react("⭐");
+
+  const repoUrl  = "https://github.com/DyySilence/NekoBot";
+  const rawThumb = "https://opengraph.githubassets.com/1/DyySilence/NekoBot";
+
   await conn.sendMessage(m.chat, {
-    text:
-      `> 🐾 *NEKOBOT — SOURCE CODE*\n>\n` +
-      `> ✅ *100% FREE & OPEN SOURCE*\n>\n` +
-      `> 📦 *GitHub:*\n> https://github.com/DyySilence/NekoBot\n>\n` +
-      `> 👨‍💻 *Developer:* DyySilence\n` +
-      `> 📅 *Copyright © 2026*\n>\n` +
-      `> 📢 *Channel:*\n> https://whatsapp.com/channel/0029Vb7uLYxIHphOIWOY8727\n>\n` +
-      `> 💬 *Grup:*\n> https://chat.whatsapp.com/Em0vw6hHyy3IcxMa9SNZ3w\n>\n` +
-      `> ━━━━━━━━━━━━━━━━━━━━\n>\n` +
-      `> ❌ Dilarang dijual\n` +
-      `> ❌ Dilarang hapus credit developer\n` +
-      `> ✅ Boleh disebarkan GRATIS\n>\n` +
-      `> 🙏 *Thanks To:*\n` +
-      `> • whyu (Source / Inspired By)\n` +
-      `> • Claude AI | DeepSeek AI | ChatGPT\n>\n` +
-      `> Made with ❤️ by *DyySilence*`,
+    text: `🐾 *${global.botName || "NekoBot — DS"}*\n\n` +
+          `📦 *Base Open Source WhatsApp Bot*\n` +
+          `⚡ Berbasis Baileys — Type Module (ESM)\n` +
+          
+          `⭐ *Star & Fork gratis di GitHub!*\n\n` +
+          `${repoUrl}`,
     contextInfo: {
       externalAdReply: {
-        title: '🐾 NekoBot — Free Source Code',
-        body: 'github.com/DyySilence/NekoBot',
-        sourceUrl: 'https://github.com/DyySilence/NekoBot',
-        thumbnailUrl: 'https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif',
+        title: `${global.botName || "NekoBot — DS"}`,
+        body: `Open Source WA Bot by ${global.namaOwner || "DyySilence"}`,
+        thumbnailUrl: rawThumb,
+        sourceUrl: repoUrl,
         mediaType: 1,
-        renderLargerThumbnail: false,
-        showAdAttribution: true,
-      },
-    },
+        renderLargerThumbnail: true
+      }
+    }
   }, { quoted: m.fakeObj || m });
-
-  await m.react('🐾');
 };
 
-handler.command     = ['sc'];
-handler.category    = 'info';
-handler.description = 'Kirim link source code bot gratis';
+handler.command     = ["sc"];
+handler.category    = "main";
+handler.description = "Tampilkan link GitHub source code bot";
 
 export default handler;
