@@ -1,3 +1,4 @@
+
 /**
  * Jangan dijual.
  * Dilarang menghapus credit developer.
@@ -29,7 +30,7 @@ import fs from "fs";
 import crypto from "crypto";
 import moment from "moment-timezone";
 import DataBase from "./lib/database.js";
-import { startAutoDeletePanel } from './plugins/panel/autoDeletePanel.js';
+import { startAutoDeletePanel } from "./plugins/panel/autoDeletePanel.js";
 import serialize, {
   cacheParticipantLids,
   resolveAnyLidToJid,
@@ -43,12 +44,25 @@ import serialize, {
 import { imageToWebp, videoToWebp } from "./lib/mediaHelper.js";
 import messageHandler from "./lib/handler.js";
 import { reactToNewMessage } from "./plugins/group/autoreact.js";
-import { startAutoBackup } from './plugins/owner/autoBackup.js';
+import { startAutoBackup } from "./plugins/owner/autoBackup.js";
+
 const database = new DataBase();
-const deletedMsgCache = new Map();
+
+const MAX_DELETED_CACHE = 500;
+const deletedMsgCache   = new Map();
+
+function deletedCacheSet(id, msg) {
+  if (deletedMsgCache.size >= MAX_DELETED_CACHE) {
+    deletedMsgCache.delete(deletedMsgCache.keys().next().value);
+  }
+  deletedMsgCache.set(id, msg);
+}
+
 global.groupMetadataCache = new Map();
-const store = makeInMemoryStore({});
-global.statusStore = new Map();
+global.statusStore        = new Map();
+const store               = makeInMemoryStore({});
+
+const BOT_START_TS = Math.floor(Date.now() / 1000);
 
 const loadDb = async () => {
   const load = (await database.read()) ?? {};
@@ -72,12 +86,9 @@ global.mess = {
   premium:  "❌ Command ini hanya untuk pengguna premium!",
 };
 
-function isMuted(groupId, senderJid) {
+function isMuted(groupId, senderNum) {
   const mutedList = global.db.groups?.[groupId]?.muted ?? {};
-  const senderNum = senderJid.replace(/[^0-9]/g, "");
-  return Object.keys(mutedList).some(
-    (k) => mutedList[k] === true && k.replace(/[^0-9]/g, "") === senderNum
-  );
+  return mutedList[senderNum] === true;
 }
 
 function resolveParticipants(participants = []) {
@@ -87,14 +98,11 @@ function resolveParticipants(participants = []) {
 
 function resolveSenderToPhone(rawJid, participants = []) {
   if (!rawJid) return rawJid;
-
   if (rawJid.endsWith("@s.whatsapp.net") && !rawJid.includes(":")) {
     const num = rawJid.replace("@s.whatsapp.net", "");
     if (num.length <= 15) return rawJid;
   }
-
   const rawNum = rawJid.replace(/@.*$/, "").replace(/[^0-9]/g, "");
-
   for (const p of participants) {
     const ids = [p.id, p.jid, p.lid].filter(Boolean);
     for (const id of ids) {
@@ -105,12 +113,9 @@ function resolveSenderToPhone(rawJid, participants = []) {
       }
     }
   }
-
   const resolved = resolveAnyLidToJid(rawJid, participants);
   if (resolved && resolved.endsWith("@s.whatsapp.net")) return resolved;
-
   if (rawJid.endsWith("@lid")) return lidToJid(rawJid);
-
   return rawJid;
 }
 
@@ -185,17 +190,12 @@ async function StartBot() {
     } else {
       buff = Buffer.alloc(0);
     }
-
     const opt = {
       packname: options.packname || global.namaOwner || "DyySilence",
       author:   options.author   || global.dev       || "© 2026",
     };
-
     const isVideo = buff[0] === 0x00 || (buff.toString("ascii", 4, 8) === "ftyp");
-    const buffer  = isVideo
-      ? await videoToWebp(buff, opt)
-      : await imageToWebp(buff, opt);
-
+    const buffer  = isVideo ? await videoToWebp(buff, opt) : await imageToWebp(buff, opt);
     await sock.sendMessage(jid, { sticker: buffer, ...options }, { quoted });
     return buffer;
   };
@@ -213,13 +213,13 @@ async function StartBot() {
     for (const item of array) {
       const img = await generateWAMessage(jid, item, { upload: sock.waUploadToServer });
       img.message.messageContextInfo = {
-        messageSecret:    crypto.randomBytes(32),
+        messageSecret:      crypto.randomBytes(32),
         messageAssociation: { associationType: 1, parentMessageKey: album.key },
-        participant:      "0@s.whatsapp.net",
-        remoteJid:        "status@broadcast",
-        forwardingScore:  99999,
-        isForwarded:      true,
-        mentionedJid:     [jid],
+        participant:        "0@s.whatsapp.net",
+        remoteJid:          "status@broadcast",
+        forwardingScore:    99999,
+        isForwarded:        true,
+        mentionedJid:       [jid],
       };
       await sock.relayMessage(jid, img.message, {
         messageId: img.key.id,
@@ -237,8 +237,12 @@ async function StartBot() {
     return album;
   };
 
-  sock.ev.on("messages.upsert", async ({ messages }) => {
+  sock.ev.on("messages.upsert", async ({ messages, type }) => {
+    if (type !== "notify") return;
+
     for (const msg of messages) {
+      if (msg.key?.id) deletedCacheSet(msg.key.id, msg);
+
       if (msg.key?.remoteJid === "status@broadcast" && msg.message) {
         const sender = msg.key?.participant || msg.key?.remoteJid;
         if (sender) {
@@ -253,22 +257,20 @@ async function StartBot() {
 
     const msg = messages[0];
     if (!msg?.message) return;
-    deletedMsgCache.set(msg.key.id, msg);
-    if (deletedMsgCache.size > 1000) {
-      deletedMsgCache.delete(deletedMsgCache.keys().next().value);
-    }
+
+    const msgTs = Number(msg.messageTimestamp ?? 0);
+    if (msgTs && msgTs < BOT_START_TS) return;
 
     const m = await serialize(sock, msg);
     if (!m || m.isBaileys) return;
+
     if (m.isGroup && !m.fromMe) {
-      const groupId    = m.chat;
-      const groupData  = global.db.groups?.[groupId] ?? {};
+      const groupId   = m.chat;
+      const groupData = global.db.groups?.[groupId] ?? {};
 
       if (groupData.antitagsw) {
-        const rawMsg     = msg.message ?? {};
-        const isStatusMention =
-          !!rawMsg.groupStatusMentionMessage ||
-          m.mtype === "groupStatusMentionMessage";
+        const rawMsg          = msg.message ?? {};
+        const isStatusMention = !!rawMsg.groupStatusMentionMessage || m.mtype === "groupStatusMentionMessage";
 
         if (isStatusMention) {
           const groupMeta    = global.groupMetadataCache.get(groupId) ?? {};
@@ -278,7 +280,7 @@ async function StartBot() {
           const realSender = resolveSenderToPhone(rawSender, participants);
           const senderNum  = realSender.replace(/@.*$/, "").replace(/[^0-9]/g, "");
           const senderJid  = senderNum ? `${senderNum}@s.whatsapp.net` : realSender;
-          const isAdmin = participants.some(
+          const isAdmin    = participants.some(
             (p) => p.admin && (p.jid || p.id || p.lid || "").replace(/[^0-9]/g, "") === senderNum
           );
           const ownerNum = (global.owner || "").replace(/[^0-9]/g, "");
@@ -289,9 +291,7 @@ async function StartBot() {
             if (!groupData.warnsAntitagsw) groupData.warnsAntitagsw = {};
             groupData.warnsAntitagsw[senderNum] = (groupData.warnsAntitagsw[senderNum] ?? 0) + 1;
             global.db.groups[groupId] = groupData;
-
             const wCount = groupData.warnsAntitagsw[senderNum];
-
             if (wCount >= 3) {
               try {
                 await sock.groupParticipantsUpdate(groupId, [senderJid], "remove");
@@ -331,17 +331,15 @@ async function StartBot() {
     }
 
     if (m.isGroup && !m.fromMe) {
-      const senderJid    = m.sender || m.participant || m.key?.participant || "";
       const groupMeta    = global.groupMetadataCache.get(m.chat) ?? {};
       const participants = groupMeta?.participants ?? [];
       cacheParticipantLids(participants);
-      const senderNum    = senderJid.replace(/[^0-9]/g, "");
-      const isAdmin      = participants.some(
+      const senderNum   = m.senderNumber || "";
+      const isAdmin     = participants.some(
         (p) => p.admin && (p.jid || p.id || p.lid || "").replace(/[^0-9]/g, "") === senderNum
       );
-      if (!isAdmin && !m.isOwner && isMuted(m.chat, senderJid)) {
-        const botRaw     = sock.user?.lid || sock.user?.id || "";
-        const botNum     = botRaw.split(":")[0].split("@")[0];
+      if (!isAdmin && !m.isOwner && isMuted(m.chat, senderNum)) {
+        const botNum     = (sock.user?.id || "").split(":")[0].split("@")[0];
         const isBotAdmin = participants.some(
           (p) => p.admin && (p.jid || p.id || p.lid || "").replace(/[^0-9]/g, "") === botNum
         );
@@ -355,6 +353,7 @@ async function StartBot() {
     if (m.isGroup && !m.fromMe) {
       await reactToNewMessage(sock, m.chat, m.key);
     }
+
     await messageHandler(sock, m);
   });
 
@@ -363,7 +362,7 @@ async function StartBot() {
       try {
         const isDeleted =
           update.message?.protocolMessage?.type === 0 ||
-          !!update.message?.protocolMessage?.key ||
+          !!update.message?.protocolMessage?.key  ||
           update.message === null;
 
         if (!isDeleted) continue;
@@ -373,15 +372,18 @@ async function StartBot() {
         const isPrivate = jid?.endsWith("@s.whatsapp.net");
 
         if (!isGroup && !isPrivate) continue;
+
         let antideleteOn = false;
         if (isGroup)   antideleteOn = !!(global.db.groups?.[jid]?.antidelete);
         if (isPrivate) antideleteOn = !!(global.db.users?.[jid]?.antidelete);
-
         if (!antideleteOn) continue;
 
         const cached = deletedMsgCache.get(key.id);
         if (!cached?.message) continue;
         if (cached.key?.fromMe) continue;
+
+        const cachedTs = Number(cached.messageTimestamp ?? 0);
+        if (cachedTs && cachedTs < BOT_START_TS) continue;
 
         const senderJid = key.participant || cached.key?.participant || (isPrivate ? jid : "");
         const senderNum = senderJid.replace(/[^0-9]/g, "");
@@ -437,7 +439,6 @@ async function StartBot() {
         }
 
         deletedMsgCache.delete(key.id);
-
       } catch (err) {
         console.error("[antidelete] Error:", err.message);
       }
@@ -521,12 +522,10 @@ async function StartBot() {
   setInterval(async () => {
     const now    = Date.now();
     const groups = global.db.groups ?? {};
-
     for (const [groupId, gdata] of Object.entries(groups)) {
       if (!gdata.sewa) continue;
       if (gdata.sewa.expiry > now) continue;
       if (gdata.sewa.notified) continue;
-
       try {
         await sock.sendMessage(groupId, {
           text:
@@ -537,15 +536,11 @@ async function StartBot() {
             `Bot akan keluar dalam 10 detik...`,
         });
       } catch {}
-
       gdata.sewa.notified = true;
       global.db.groups[groupId] = gdata;
-
       setTimeout(async () => {
         try { await sock.groupLeave(groupId); } catch {}
-        if (global.db.groups[groupId]?.sewa) {
-          delete global.db.groups[groupId].sewa;
-        }
+        if (global.db.groups[groupId]?.sewa) delete global.db.groups[groupId].sewa;
       }, 10000);
     }
   }, 60000);
@@ -564,6 +559,17 @@ async function StartBot() {
       }
     }
   }, 60000);
+
+  setInterval(() => {
+    if (global.groupMetadataCache.size > 300) {
+      const keys = [...global.groupMetadataCache.keys()];
+      keys.slice(0, keys.length - 300).forEach((k) => global.groupMetadataCache.delete(k));
+    }
+    if (global.statusStore.size > 100) {
+      const keys = [...global.statusStore.keys()];
+      keys.slice(0, keys.length - 100).forEach((k) => global.statusStore.delete(k));
+    }
+  }, 3600000);
 
   return sock;
 }
