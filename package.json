@@ -1,6 +1,7 @@
+
 {
-  "name": "pushkon-whatsapp",
-  "version": "1.0.0",
+  "name": "nekobot",
+  "version": "1.0.2",
   "type": "module",
   "main": "index.js",
   "scripts": {
