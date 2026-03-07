@@ -1,113 +1,136 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="150">
-</p><h1 align="center">🐾 NekoBot</h1>
-<p align="center">
-WhatsApp Multi Device Bot Using <b>Baileys</b>
-</p><p align="center">
-<img src="https://img.shields.io/badge/NodeJS-18+-green?style=for-the-badge&logo=node.js">
-<img src="https://img.shields.io/badge/Library-Baileys-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-</p>
+<div align="center">
 
-👨‍💻 Creator
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="120px"/>
 
-Creator : DyySilence
-User / Modder : -
+# 🐾 NekoBot — DS
 
-Copyright © 2026
+**WhatsApp Multi Device Bot** powered by [Baileys-Mod](https://www.npmjs.com/package/@dyyxyzz/baileys-mod)
+
+[![NodeJS](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Baileys](https://img.shields.io/badge/Baileys-Latest-4A90D9?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/WhiskeySockets/Baileys)
+[![License](https://img.shields.io/badge/License-FREE-brightgreen?style=for-the-badge)](.)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](.)
+
+</div>
 
 ---
 
-📞 Contact
+## 📸 Preview
 
-Telegram : https://t.me/DyySilence
-Telegram Channel : https://t.me/roomzetsu
-
-WhatsApp Channel :
-https://whatsapp.com/channel/0029Vb7uLYxIHphOIWOY8727
-
-WhatsApp Group :
-https://chat.whatsapp.com/Em0vw6hHyy3IcxMa9SNZ3w
+<div align="center">
+<img src="https://c.termai.cc/i186/82BEo5.jpg" width="320px" style="border-radius: 12px"/>
+</div>
 
 ---
 
-⚠️ Baca Sebelum Pakai
+## ⚠️ Peraturan
 
-❌ Dilarang menjual script bot ini
-❌ Dilarang menghapus credit developer
-
-Script ini 100% FREE
-Silahkan share ke teman kalian.
+> ❌ **Dilarang menghapus** credit developer  
+> ✅ Script ini **100% FREE** — silakan share ke teman kalian
 
 ---
 
-⚙️ Setup Bot
+## ⚙️ Instalasi — VPS / Local
 
-Edit file berikut terlebih dahulu
+### 1. Clone
 
-set/config.js
+```bash
+git clone https://github.com/DyySilence/nekobot.git
+cd nekobot
+```
 
-Ubah konfigurasi berikut
+### 2. Install Dependency
 
-global.owner        = "628xxxxxxxxxx";   // Nomor WhatsApp kamu
-global.pairingNumber = "628xxxxxxxxxx";  // Nomor yang akan dipasangkan
-global.botName      = "NekoBot — DS";    // Nama bot (opsional)
-global.namaOwner    = "NamaMu";          // Nama owner (opsional)
-
----
-
-🚀 Menjalankan Bot
-
-Install module terlebih dahulu
-
+```bash
 npm install
+```
 
-Jalankan bot
+### 3. Konfigurasi
 
+Edit file `set/config.js`:
+
+```js
+global.owner         = "628xxxxxxxxxx";  // Nomor WhatsApp kamu
+global.pairingNumber = "628xxxxxxxxxx";  // Nomor yang akan dipasangkan
+global.botName       = "NekoBot — DS";   // Nama bot
+global.namaOwner     = "NamaMu";         // Nama owner
+```
+
+### 4. Jalankan
+
+```bash
 npm start
+```
 
-Masukkan Pairing Code yang muncul di WhatsApp
-
-Perangkat Tertaut → Tautkan Perangkat → Masukkan Kode Pairing
-
----
-
-🌐 API
-
-Sebagian fitur menggunakan API milik developer
-
-api.dyysilence.biz.id
+> 📱 Buka WhatsApp → **Perangkat Tertaut** → **Tautkan Perangkat** → Masukkan kode pairing yang muncul di terminal.
 
 ---
 
-📢 Update
+## 🖥️ Instalasi — Panel Pterodactyl
 
-Fitur akan terus update kedepannya
+### 1. Buat Server Baru
+- Pilih **Egg**: `Node.js` atau sesuai egg yang tersedia
+- Set **Startup Command**: `npm start`
 
-Silahkan follow WhatsApp Channel untuk mendapatkan fitur terbaru.
+### 2. Upload File
+- Zip semua file bot kecuali `node_modules/` dan `session/`
+- Upload via **File Manager** → Extract
+
+### 3. Konfigurasi
+- Edit `set/config.js` langsung dari File Manager panel
+- Isi `global.owner` dan `global.pairingNumber` dengan nomor kamu
+
+### 4. Install & Jalankan
+```
+# Di Startup ketik:
+npm 
+start
+```
+- Lalu Klik **Start** — kode pairing akan muncul di console
+- Masukkan kode di WhatsApp → Perangkat Tertaut → Tautkan Perangkat
+
+> 💡 Butuh panel? Hubungi creator — tersedia dengan garansi & pengajaran penuh.
 
 ---
 
-🖥️ Panel Pterodactyl
+## 🌐 API
 
-Jika ingin membeli Panel Pterodactyl silahkan hubungi Creator
-
-✔️ 100% Legal
-✔️ Full Garansi selama masa aktif
-✔️ Full pengajaran sampai bot berjalan
+```
+https://api.dyysilence.biz.id/api
+```
 
 ---
 
-🙏 Thanks To
+## 📞 Kontak
 
-- whyu (Source / Inspired By)
-- My Device
-- Claude AI
-- DeepSeek AI
-- ChatGPT
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💬 Telegram | [@DyySilence](https://t.me/DyySilence) |
+| 📣 Telegram Channel | [@roomzetsu](https://t.me/roomzetsu) |
+| 📢 WhatsApp Channel | [Klik di sini](https://whatsapp.com/channel/0029Vb7uLYxIHphOIWOY8727) |
+| 👥 WhatsApp Group | [Join Grup](https://chat.whatsapp.com/Em0vw6hHyy3IcxMa9SNZ3w) |
+| ☕ Support | [Saweria](https://saweria.co/dyysomnia) |
+
+</div>
 
 ---
 
-<p align="center">
-Made with ❤️ by <b>DyySilence</b>
-</p>
+## 🙏 Credits
+
+- **whyu** — Source / Inspired By
+- **Baileys Team** — Library WA Multi Device
+- **Claude AI** — AI Assistant
+- **DeepSeek AI** — AI Assistant
+- **ChatGPT** — AI Assistant
+
+---
+
+<div align="center">
+
+**Copyright © 2026 DyySilence — All Rights Reserved**
+
+Made with ❤️ by [DyySilence](https://t.me/DyySilence)
+
+</div>
