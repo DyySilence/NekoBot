@@ -27,7 +27,7 @@ global.apiUrl = "https://api.dyysilence.biz.id/api";
 global.ptld = "https://";   // domain
 global.ptla = "ptla_";   // ptla
 global.ptlc = "ptlc_";        // ptlc
-global.ptln = "1";                          
+global.ptln = "5";                          
 global.ptle = "15";                        
 global.ptll = "1";   
 
