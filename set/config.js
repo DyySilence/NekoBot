@@ -24,9 +24,9 @@ global.channelName  = "DS — Channel";
 global.dev          = "DyySilence";           
 global.apiUrl = "https://api.dyysilence.biz.id/api";
 
-global.ptld = "https://shinx.sensei-wangyy.my.id";   // domain
-global.ptla = "ptla_myFxAN8F4jErIWbNO2gJVOb6x1sr5f1NaukxXOd8QLT";   // ptla
-global.ptlc = "ptlc_I3bIZ4jfaFDgebmooj2WOIMnhtfjSUA8SrZeS3AJEYd";        // ptlc
+global.ptld = "https://";   // domain
+global.ptla = "ptla_";   // ptla
+global.ptlc = "ptlc_";        // ptlc
 global.ptln = "1";                          
 global.ptle = "15";                        
 global.ptll = "1";   
