@@ -1,0 +1,30 @@
+Creator : DyySilence
+Channel WhatsApp : https://whatsapp.com/channel/0029Vb7uLYxIHphOIWOY8727
+Group WhatsApp : https://chat.whatsapp.com/Em0vw6hHyy3IcxMa9SNZ3w?mode=hqrt2
+Telegram : https://t.me/DyySilence
+
+Support lewat QRIS all payment
+https://i.ibb.co.com/QWLYgHW/QRIS.png
+
+===
+- Note * baca dulu ya, kalau kalian baru jalanin script nya
+buka dulu file yang namanya set —> config.js . buat masukin nomor-
+bot dan nomor owner, serta nama owner dan setting lainnya.
+- Juga untuk apikeys gemini kalian buka web https://aistudio.google.com/
+disitu kamu cari ada login atau daftar pake google. 
+Nah terus kalo udah login buka aja menu apikey di jendela kiri atau ke https://aistudio.google.com/api-keys
+Terus ntar juga ada menu create apikey, isi aja nama apikey nya bebas,
+Terus pilih dibawah nya create project bebas juga nama project nya, terus create dahh jadi
+Kalo dah jadi cari aja yang teks nya warna biru dan klik, apikey nya awalan Alza....
+===
+
+- dahhh tuh kalian juga bisa hubungi creator jika mau tanya tanya
+- dan juga jika mau req fitur chat aja, tapi kasih aja buat beli kopi karena dia ngerjain apa apa sendirian.😌
+
+- btw kasih support nya yak, supaya semangat terus update😌.
+- Note * untuk kedepannya update hanya akan kasih file atau fitur via code ya, 
+- join aja group ku supaya gampang qna.
+- dan u buat dev, tq udah pake base gw, bebas rename
+- tapi hargai creator ya karena aku bikinnya dari 0😌
+
+Tq

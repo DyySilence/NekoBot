@@ -1,0 +1,2927 @@
+﻿[
+    {
+        "category": "Emoji & People",
+        "sub_category": "Face Neutral-Skeptical",
+        "code": "1f642-200d-2194-fe0f",
+        "emoji": "🙂‍↔️",
+        "title": "Head Shaking Horizontally",
+        "tags": [
+            "head shaking horizontally",
+            "no",
+            "shake"
+        ],
+        "codepoints": [
+            "U+1F642",
+            "U+200D",
+            "U+2194",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/head-shaking-horizontally_1f642-200d-2194-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Face Neutral-Skeptical",
+        "code": "1f642-200d-2195-fe0f",
+        "emoji": "🙂‍↕️",
+        "title": "Head Shaking Vertically",
+        "tags": [
+            "head shaking vertically",
+            "nod",
+            "yes"
+        ],
+        "codepoints": [
+            "U+1F642",
+            "U+200D",
+            "U+2195",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/head-shaking-vertically_1f642-200d-2195-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-200d-27a1-fe0f",
+        "emoji": "🚶‍➡️",
+        "title": "Person Walking Facing Right",
+        "codepoints": [
+            "U+1F6B6",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_walking_facing_right_1f6b6-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fb-200d-27a1-fe0f",
+        "emoji": "🚶🏻‍➡️",
+        "title": "Person Walking Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FB",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_walking_facing_right_light_skin_tone_1f6b6-1f3fb-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fc-200d-27a1-fe0f",
+        "emoji": "🚶🏼‍➡️",
+        "title": "Person Walking Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_walking_facing_right_medium-light_skin_tone_1f6b6-1f3fc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fd-200d-27a1-fe0f",
+        "emoji": "🚶🏽‍➡️",
+        "title": "Person Walking Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_walking_facing_right_medium_skin_tone_1f6b6-1f3fd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fe-200d-27a1-fe0f",
+        "emoji": "🚶🏾‍➡️",
+        "title": "Person Walking Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FE",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_walking_facing_right_medium-dark_skin_tone_1f6b6-1f3fe-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3ff-200d-27a1-fe0f",
+        "emoji": "🚶🏿‍➡️",
+        "title": "Person Walking Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_walking_facing_right_dark_skin_tone_1f6b6-1f3ff-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶‍♀️‍➡️",
+        "title": "Woman Walking Facing Right",
+        "codepoints": [
+            "U+1F6B6",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_walking_facing_right_1f6b6-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fb-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶🏻‍♀️‍➡️",
+        "title": "Woman Walking Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FB",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_walking_facing_right_light_skin_tone_1f6b6-1f3fb-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fc-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶🏼‍♀️‍➡️",
+        "title": "Woman Walking Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FC",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_walking_facing_right_medium-light_skin_tone_1f6b6-1f3fc-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fd-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶🏽‍♀️‍➡️",
+        "title": "Woman Walking Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FD",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_walking_facing_right_medium_skin_tone_1f6b6-1f3fd-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fe-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶🏾‍♀️‍➡️",
+        "title": "Woman Walking Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FE",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_walking_facing_right_medium-dark_skin_tone_1f6b6-1f3fe-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3ff-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶🏿‍♀️‍➡️",
+        "title": "Woman Walking Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FF",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_walking_facing_right_dark_skin_tone_1f6b6-1f3ff-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶‍♂️‍➡️",
+        "title": "Man Walking Facing Right",
+        "codepoints": [
+            "U+1F6B6",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_walking_facing_right_1f6b6-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fb-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶🏻‍♂️‍➡️",
+        "title": "Man Walking Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FB",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_walking_facing_right_light_skin_tone_1f6b6-1f3fb-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fc-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶🏼‍♂️‍➡️",
+        "title": "Man Walking Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FC",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_walking_facing_right_medium-light_skin_tone_1f6b6-1f3fc-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fd-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶🏽‍♂️‍➡️",
+        "title": "Man Walking Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FD",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_walking_facing_right_medium_skin_tone_1f6b6-1f3fd-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3fe-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶🏾‍♂️‍➡️",
+        "title": "Man Walking Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FE",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_walking_facing_right_medium-dark_skin_tone_1f6b6-1f3fe-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f6b6-1f3ff-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🚶🏿‍♂️‍➡️",
+        "title": "Man Walking Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F6B6",
+            "U+1F3FF",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f6b6-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_walking_facing_right_dark_skin_tone_1f6b6-1f3ff-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-200d-27a1-fe0f",
+        "emoji": "🧎‍➡️",
+        "title": "Person Kneeling Facing Right",
+        "codepoints": [
+            "U+1F9CE",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_kneeling_facing_right_1f9ce-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fb-200d-27a1-fe0f",
+        "emoji": "🧎🏻‍➡️",
+        "title": "Person Kneeling Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FB",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_kneeling_facing_right_light_skin_tone_1f9ce-1f3fb-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fc-200d-27a1-fe0f",
+        "emoji": "🧎🏼‍➡️",
+        "title": "Person Kneeling Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_kneeling_facing_right_medium-light_skin_tone_1f9ce-1f3fc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fd-200d-27a1-fe0f",
+        "emoji": "🧎🏽‍➡️",
+        "title": "Person Kneeling Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_kneeling_facing_right_medium_skin_tone_1f9ce-1f3fd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fe-200d-27a1-fe0f",
+        "emoji": "🧎🏾‍➡️",
+        "title": "Person Kneeling Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FE",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_kneeling_facing_right_medium-dark_skin_tone_1f9ce-1f3fe-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3ff-200d-27a1-fe0f",
+        "emoji": "🧎🏿‍➡️",
+        "title": "Person Kneeling Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_kneeling_facing_right_dark_skin_tone_1f9ce-1f3ff-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎‍♀️‍➡️",
+        "title": "Woman Kneeling Facing Right",
+        "codepoints": [
+            "U+1F9CE",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_kneeling_facing_right_1f9ce-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fb-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎🏻‍♀️‍➡️",
+        "title": "Woman Kneeling Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FB",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_kneeling_facing_right_light_skin_tone_1f9ce-1f3fb-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fc-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎🏼‍♀️‍➡️",
+        "title": "Woman Kneeling Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FC",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_kneeling_facing_right_medium-light_skin_tone_1f9ce-1f3fc-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fd-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎🏽‍♀️‍➡️",
+        "title": "Woman Kneeling Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FD",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_kneeling_facing_right_medium_skin_tone_1f9ce-1f3fd-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fe-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎🏾‍♀️‍➡️",
+        "title": "Woman Kneeling Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FE",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_kneeling_facing_right_medium-dark_skin_tone_1f9ce-1f3fe-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3ff-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎🏿‍♀️‍➡️",
+        "title": "Woman Kneeling Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FF",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_kneeling_facing_right_dark_skin_tone_1f9ce-1f3ff-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎‍♂️‍➡️",
+        "title": "Man Kneeling Facing Right",
+        "codepoints": [
+            "U+1F9CE",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_kneeling_facing_right_1f9ce-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fb-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎🏻‍♂️‍➡️",
+        "title": "Man Kneeling Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FB",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_kneeling_facing_right_light_skin_tone_1f9ce-1f3fb-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fc-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎🏼‍♂️‍➡️",
+        "title": "Man Kneeling Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FC",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_kneeling_facing_right_medium-light_skin_tone_1f9ce-1f3fc-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fd-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎🏽‍♂️‍➡️",
+        "title": "Man Kneeling Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FD",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_kneeling_facing_right_medium_skin_tone_1f9ce-1f3fd-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3fe-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎🏾‍♂️‍➡️",
+        "title": "Man Kneeling Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FE",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_kneeling_facing_right_medium-dark_skin_tone_1f9ce-1f3fe-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9ce-1f3ff-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🧎🏿‍♂️‍➡️",
+        "title": "Man Kneeling Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F9CE",
+            "U+1F3FF",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9ce-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_kneeling_facing_right_dark_skin_tone_1f9ce-1f3ff-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "🧑‍🦯‍➡️",
+        "title": "Person with White Cane Facing Right",
+        "codepoints": [
+            "U+1F9D1",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_with_white_cane_facing_right_1f9d1-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fb-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "🧑🏻‍🦯‍➡️",
+        "title": "Person with White Cane Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_with_white_cane_facing_right_light_skin_tone_1f9d1-1f3fb-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fc-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "🧑🏼‍🦯‍➡️",
+        "title": "Person with White Cane Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_with_white_cane_facing_right_medium-light_skin_tone_1f9d1-1f3fc-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fd-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "🧑🏽‍🦯‍➡️",
+        "title": "Person with White Cane Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_with_white_cane_facing_right_medium_skin_tone_1f9d1-1f3fd-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fe-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "🧑🏾‍🦯‍➡️",
+        "title": "Person with White Cane Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_with_white_cane_facing_right_medium-dark_skin_tone_1f9d1-1f3fe-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3ff-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "🧑🏿‍🦯‍➡️",
+        "title": "Person with White Cane Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_with_white_cane_facing_right_dark_skin_tone_1f9d1-1f3ff-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👨‍🦯‍➡️",
+        "title": "Man with White Cane Facing Right",
+        "codepoints": [
+            "U+1F468",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_with_white_cane_facing_right_1f468-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fb-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👨🏻‍🦯‍➡️",
+        "title": "Man with White Cane Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_with_white_cane_facing_right_light_skin_tone_1f468-1f3fb-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fc-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👨🏼‍🦯‍➡️",
+        "title": "Man with White Cane Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_with_white_cane_facing_right_medium-light_skin_tone_1f468-1f3fc-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fd-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👨🏽‍🦯‍➡️",
+        "title": "Man with White Cane Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_with_white_cane_facing_right_medium_skin_tone_1f468-1f3fd-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fe-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👨🏾‍🦯‍➡️",
+        "title": "Man with White Cane Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_with_white_cane_facing_right_medium-dark_skin_tone_1f468-1f3fe-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3ff-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👨🏿‍🦯‍➡️",
+        "title": "Man with White Cane Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_with_white_cane_facing_right_dark_skin_tone_1f468-1f3ff-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👩‍🦯‍➡️",
+        "title": "Woman with White Cane Facing Right",
+        "codepoints": [
+            "U+1F469",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_with_white_cane_facing_right_1f469-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fb-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👩🏻‍🦯‍➡️",
+        "title": "Woman with White Cane Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_with_white_cane_facing_right_light_skin_tone_1f469-1f3fb-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fc-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👩🏼‍🦯‍➡️",
+        "title": "Woman with White Cane Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_with_white_cane_facing_right_medium-light_skin_tone_1f469-1f3fc-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fd-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👩🏽‍🦯‍➡️",
+        "title": "Woman with White Cane Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_with_white_cane_facing_right_medium_skin_tone_1f469-1f3fd-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fe-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👩🏾‍🦯‍➡️",
+        "title": "Woman with White Cane Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_with_white_cane_facing_right_medium-dark_skin_tone_1f469-1f3fe-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3ff-200d-1f9af-200d-27a1-fe0f",
+        "emoji": "👩🏿‍🦯‍➡️",
+        "title": "Woman with White Cane Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9AF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9af-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_with_white_cane_facing_right_dark_skin_tone_1f469-1f3ff-200d-1f9af-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "🧑‍🦼‍➡️",
+        "title": "Person in Motorized Wheelchair Facing Right",
+        "codepoints": [
+            "U+1F9D1",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_motorized_wheelchair_facing_right_1f9d1-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fb-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "🧑🏻‍🦼‍➡️",
+        "title": "Person in Motorized Wheelchair Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_motorized_wheelchair_facing_right_light_skin_tone_1f9d1-1f3fb-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fc-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "🧑🏼‍🦼‍➡️",
+        "title": "Person in Motorized Wheelchair Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_motorized_wheelchair_facing_right_medium-light_skin_tone_1f9d1-1f3fc-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fd-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "🧑🏽‍🦼‍➡️",
+        "title": "Person in Motorized Wheelchair Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_motorized_wheelchair_facing_right_medium_skin_tone_1f9d1-1f3fd-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fe-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "🧑🏾‍🦼‍➡️",
+        "title": "Person in Motorized Wheelchair Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_motorized_wheelchair_facing_right_medium-dark_skin_tone_1f9d1-1f3fe-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3ff-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "🧑🏿‍🦼‍➡️",
+        "title": "Person in Motorized Wheelchair Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_motorized_wheelchair_facing_right_dark_skin_tone_1f9d1-1f3ff-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👨‍🦼‍➡️",
+        "title": "Man in Motorized Wheelchair Facing Right",
+        "codepoints": [
+            "U+1F468",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_motorized_wheelchair_facing_right_1f468-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fb-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👨🏻‍🦼‍➡️",
+        "title": "Man in Motorized Wheelchair Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_motorized_wheelchair_facing_right_light_skin_tone_1f468-1f3fb-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fc-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👨🏼‍🦼‍➡️",
+        "title": "Man in Motorized Wheelchair Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_motorized_wheelchair_facing_right_medium-light_skin_tone_1f468-1f3fc-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fd-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👨🏽‍🦼‍➡️",
+        "title": "Man in Motorized Wheelchair Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_motorized_wheelchair_facing_right_medium_skin_tone_1f468-1f3fd-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fe-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👨🏾‍🦼‍➡️",
+        "title": "Man in Motorized Wheelchair Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_motorized_wheelchair_facing_right_medium-dark_skin_tone_1f468-1f3fe-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3ff-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👨🏿‍🦼‍➡️",
+        "title": "Man in Motorized Wheelchair Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_motorized_wheelchair_facing_right_dark_skin_tone_1f468-1f3ff-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👩‍🦼‍➡️",
+        "title": "Woman in Motorized Wheelchair Facing Right",
+        "codepoints": [
+            "U+1F469",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_motorized_wheelchair_facing_right_1f469-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fb-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👩🏻‍🦼‍➡️",
+        "title": "Woman in Motorized Wheelchair Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_motorized_wheelchair_facing_right_light_skin_tone_1f469-1f3fb-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fc-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👩🏼‍🦼‍➡️",
+        "title": "Woman in Motorized Wheelchair Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_motorized_wheelchair_facing_right_medium-light_skin_tone_1f469-1f3fc-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fd-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👩🏽‍🦼‍➡️",
+        "title": "Woman in Motorized Wheelchair Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_motorized_wheelchair_facing_right_medium_skin_tone_1f469-1f3fd-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fe-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👩🏾‍🦼‍➡️",
+        "title": "Woman in Motorized Wheelchair Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_motorized_wheelchair_facing_right_medium-dark_skin_tone_1f469-1f3fe-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3ff-200d-1f9bc-200d-27a1-fe0f",
+        "emoji": "👩🏿‍🦼‍➡️",
+        "title": "Woman in Motorized Wheelchair Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9BC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9bc-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_motorized_wheelchair_facing_right_dark_skin_tone_1f469-1f3ff-200d-1f9bc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "🧑‍🦽‍➡️",
+        "title": "Person in Manual Wheelchair Facing Right",
+        "codepoints": [
+            "U+1F9D1",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_manual_wheelchair_facing_right_1f9d1-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fb-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "🧑🏻‍🦽‍➡️",
+        "title": "Person in Manual Wheelchair Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_manual_wheelchair_facing_right_light_skin_tone_1f9d1-1f3fb-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fc-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "🧑🏼‍🦽‍➡️",
+        "title": "Person in Manual Wheelchair Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_manual_wheelchair_facing_right_medium-light_skin_tone_1f9d1-1f3fc-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fd-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "🧑🏽‍🦽‍➡️",
+        "title": "Person in Manual Wheelchair Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_manual_wheelchair_facing_right_medium_skin_tone_1f9d1-1f3fd-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3fe-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "🧑🏾‍🦽‍➡️",
+        "title": "Person in Manual Wheelchair Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_manual_wheelchair_facing_right_medium-dark_skin_tone_1f9d1-1f3fe-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f9d1-1f3ff-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "🧑🏿‍🦽‍➡️",
+        "title": "Person in Manual Wheelchair Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F9D1",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f9d1-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_in_manual_wheelchair_facing_right_dark_skin_tone_1f9d1-1f3ff-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👨‍🦽‍➡️",
+        "title": "Man in Manual Wheelchair Facing Right",
+        "codepoints": [
+            "U+1F468",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_manual_wheelchair_facing_right_1f468-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fb-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👨🏻‍🦽‍➡️",
+        "title": "Man in Manual Wheelchair Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_manual_wheelchair_facing_right_light_skin_tone_1f468-1f3fb-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fc-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👨🏼‍🦽‍➡️",
+        "title": "Man in Manual Wheelchair Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_manual_wheelchair_facing_right_medium-light_skin_tone_1f468-1f3fc-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fd-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👨🏽‍🦽‍➡️",
+        "title": "Man in Manual Wheelchair Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_manual_wheelchair_facing_right_medium_skin_tone_1f468-1f3fd-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3fe-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👨🏾‍🦽‍➡️",
+        "title": "Man in Manual Wheelchair Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_manual_wheelchair_facing_right_medium-dark_skin_tone_1f468-1f3fe-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f468-1f3ff-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👨🏿‍🦽‍➡️",
+        "title": "Man in Manual Wheelchair Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f468-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_in_manual_wheelchair_facing_right_dark_skin_tone_1f468-1f3ff-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👩‍🦽‍➡️",
+        "title": "Woman in Manual Wheelchair Facing Right",
+        "codepoints": [
+            "U+1F469",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_manual_wheelchair_facing_right_1f469-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fb-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👩🏻‍🦽‍➡️",
+        "title": "Woman in Manual Wheelchair Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_manual_wheelchair_facing_right_light_skin_tone_1f469-1f3fb-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fc-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👩🏼‍🦽‍➡️",
+        "title": "Woman in Manual Wheelchair Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_manual_wheelchair_facing_right_medium-light_skin_tone_1f469-1f3fc-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fd-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👩🏽‍🦽‍➡️",
+        "title": "Woman in Manual Wheelchair Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_manual_wheelchair_facing_right_medium_skin_tone_1f469-1f3fd-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3fe-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👩🏾‍🦽‍➡️",
+        "title": "Woman in Manual Wheelchair Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_manual_wheelchair_facing_right_medium-dark_skin_tone_1f469-1f3fe-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f469-1f3ff-200d-1f9bd-200d-27a1-fe0f",
+        "emoji": "👩🏿‍🦽‍➡️",
+        "title": "Woman in Manual Wheelchair Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9BD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f469-200d-1f9bd-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_in_manual_wheelchair_facing_right_dark_skin_tone_1f469-1f3ff-200d-1f9bd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-200d-27a1-fe0f",
+        "emoji": "🏃‍➡️",
+        "title": "Person Running Facing Right",
+        "codepoints": [
+            "U+1F3C3",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_running_facing_right_1f3c3-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fb-200d-27a1-fe0f",
+        "emoji": "🏃🏻‍➡️",
+        "title": "Person Running Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FB",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_running_facing_right_light_skin_tonet_1f3c3-1f3fb-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fc-200d-27a1-fe0f",
+        "emoji": "🏃🏼‍➡️",
+        "title": "Person Running Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FC",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_running_facing_right_medium-light_skin_tone_1f3c3-1f3fc-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fd-200d-27a1-fe0f",
+        "emoji": "🏃🏽‍➡️",
+        "title": "Person Running Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FD",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_running_facing_right_medium_skin_tone_1f3c3-1f3fd-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fe-200d-27a1-fe0f",
+        "emoji": "🏃🏾‍➡️",
+        "title": "Person Running Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FE",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_running_facing_right_medium-dark_skin_tone_1f3c3-1f3fe-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3ff-200d-27a1-fe0f",
+        "emoji": "🏃🏿‍➡️",
+        "title": "Person Running Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FF",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/person_running_facing_right_dark_skin_tone_1f3c3-1f3ff-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃‍♀️‍➡️",
+        "title": "Woman Running Facing Right",
+        "codepoints": [
+            "U+1F3C3",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_running_facing_right_1f3c3-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fb-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃🏻‍♀️‍➡️",
+        "title": "Woman Running Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FB",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_running_facing_right_light_skin_tone_1f3c3-1f3fb-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fc-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃🏼‍♀️‍➡️",
+        "title": "Woman Running Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FC",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_running_facing_right_medium-light_skin_tone_1f3c3-1f3fc-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fd-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃🏽‍♀️‍➡️",
+        "title": "Woman Running Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FD",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_running_facing_right_medium_skin_tone_1f3c3-1f3fd-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fe-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃🏾‍♀️‍➡️",
+        "title": "Woman Running Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FE",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_running_facing_right_medium-dark_skin_tone_1f3c3-1f3fe-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3ff-200d-2640-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃🏿‍♀️‍➡️",
+        "title": "Woman Running Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FF",
+            "U+200D",
+            "U+2640",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-2640-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman_running_facing_right_dark_skin_tone_1f3c3-1f3ff-200d-2640-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃‍♂️‍➡️",
+        "title": "Man Running Facing Right",
+        "codepoints": [
+            "U+1F3C3",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_running_facing_right_1f3c3-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fb-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃🏻‍♂️‍➡️",
+        "title": "Man Running Facing Right: Light Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FB",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_running_facing_right_light_skin_tone_1f3c3-1f3fb-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fc-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃🏼‍♂️‍➡️",
+        "title": "Man Running Facing Right: Medium-Light Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FC",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_running_facing_right_medium-light_skin_tone_1f3c3-1f3fc-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fd-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃🏽‍♂️‍➡️",
+        "title": "Man Running Facing Right: Medium Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FD",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_running_facing_right_medium_skin_tone_1f3c3-1f3fd-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3fe-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃🏾‍♂️‍➡️",
+        "title": "Man Running Facing Right: Medium-Dark Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FE",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_running_facing_right_medium-dark_skin_tone_1f3c3-1f3fe-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Activity",
+        "code": "1f3c3-1f3ff-200d-2642-fe0f-200d-27a1-fe0f",
+        "emoji": "🏃🏿‍♂️‍➡️",
+        "title": "Man Running Facing Right: Dark Skin Tone",
+        "codepoints": [
+            "U+1F3C3",
+            "U+1F3FF",
+            "U+200D",
+            "U+2642",
+            "U+FE0F",
+            "U+200D",
+            "U+27A1",
+            "U+FE0F"
+        ],
+        "parent": "1f3c3-200d-2642-fe0f-200d-27a1-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man_running_facing_right_dark_skin_tone_1f3c3-1f3ff-200d-2642-fe0f-200d-27a1-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Symbol",
+        "code": "1f9d1-200d-1f9d1-200d-1f9d2",
+        "emoji": "🧑‍🧑‍🧒",
+        "title": "Family: Adult, Adult, Child",
+        "tags": [
+            "family: adult, adult, child"
+        ],
+        "codepoints": [
+            "U+1F9D1",
+            "U+200D",
+            "U+1F9D1",
+            "U+200D",
+            "U+1F9D2"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/family-adult-adult-child_1f9d1-200d-1f9d1-200d-1f9d2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Symbol",
+        "code": "1f9d1-200d-1f9d1-200d-1f9d2-200d-1f9d2",
+        "emoji": "🧑‍🧑‍🧒‍🧒",
+        "title": "Family: Adult, Adult, Child, Child",
+        "tags": [
+            "family: adult, adult, child, child"
+        ],
+        "codepoints": [
+            "U+1F9D1",
+            "U+200D",
+            "U+1F9D1",
+            "U+200D",
+            "U+1F9D2",
+            "U+200D",
+            "U+1F9D2"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/family-adult-adult-child-child_1f9d1-200d-1f9d1-200d-1f9d2-200d-1f9d2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Symbol",
+        "code": "1f9d1-200d-1f9d2",
+        "emoji": "🧑‍🧒",
+        "title": "Family: Adult, Child",
+        "tags": [
+            "family: adult, child"
+        ],
+        "codepoints": [
+            "U+1F9D1",
+            "U+200D",
+            "U+1F9D2"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/family-adult-child_1f9d1-200d-1f9d2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Symbol",
+        "code": "1f9d1-200d-1f9d2-200d-1f9d2",
+        "emoji": "🧑‍🧒‍🧒",
+        "title": "Family: Adult, Child, Child",
+        "tags": [
+            "family: adult, child, child"
+        ],
+        "codepoints": [
+            "U+1F9D1",
+            "U+200D",
+            "U+1F9D2",
+            "U+200D",
+            "U+1F9D2"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/family-adult-child-child_1f9d1-200d-1f9d2-200d-1f9d2.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "code": "1f426-200d-1f525",
+        "emoji": "🐦‍🔥",
+        "title": "Phoenix",
+        "tags": [
+            "fantasy",
+            "firebird",
+            "phoenix",
+            "rebirth",
+            "reincarnation"
+        ],
+        "codepoints": [
+            "U+1F426",
+            "U+200D",
+            "U+1F525"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/phoenix-bird_1f426-200d-1f525.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Fruit",
+        "code": "1f34b-200d-1f7e9",
+        "emoji": "🍋‍🟩",
+        "title": "Lime",
+        "tags": [
+            "citrus",
+            "fruit",
+            "lime",
+            "tropical"
+        ],
+        "codepoints": [
+            "U+1F34B",
+            "U+200D",
+            "U+1F7E9"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/lime_1f34b-200d-1f7e9.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1f344-200d-1f7eb",
+        "emoji": "🍄‍🟫",
+        "title": "Brown Mushroom",
+        "tags": [
+            "brown mushroom",
+            "food",
+            "fungus",
+            "nature",
+            "vegetable"
+        ],
+        "codepoints": [
+            "U+1F344",
+            "U+200D",
+            "U+1F7EB"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/brown-mushroom_1f344-200d-1f7eb.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Tool",
+        "code": "26d3-fe0f-200d-1f4a5",
+        "emoji": "⛓️‍💥",
+        "title": "Broken Chain",
+        "tags": [
+            "break",
+            "breaking",
+            "broken chain",
+            "chain",
+            "cuffs",
+            "freedom"
+        ],
+        "codepoints": [
+            "U+26D3",
+            "U+FE0F",
+            "U+200D",
+            "U+1F4A5"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/broken-chain_26d3-fe0f-200d-1f4a5.png"
+        }
+    }
+]

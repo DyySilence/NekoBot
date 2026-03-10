@@ -1,0 +1,6171 @@
+﻿[
+    {
+        "category": "Emoji & People",
+        "sub_category": "Face Affection",
+        "code": "1f970",
+        "emoji": "🥰",
+        "title": "Smiling Face with Hearts",
+        "aliases": [
+            "In Love Face",
+            "Smiling Face with Hearts"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":smiling_face_with_hearts:"
+            ],
+            "github": [
+                ":smiling_face_with_three_hearts:"
+            ],
+            "slack": [
+                ":smiling_face_with_3_hearts:"
+            ],
+            "discord": [
+                ":smiling_face_with_3_hearts:"
+            ]
+        },
+        "tags": [
+            "adore",
+            "crush",
+            "hearts",
+            "in love",
+            "smiling face with hearts"
+        ],
+        "codepoints": [
+            "U+1F970"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/smiling-face-with-hearts_1f970.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Face Unwell",
+        "code": "1f975",
+        "emoji": "🥵",
+        "title": "Hot Face",
+        "aliases": [
+            "Hot Face"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":hot_face:"
+            ],
+            "github": [
+                ":hot_face:"
+            ],
+            "slack": [
+                ":hot_face:"
+            ],
+            "discord": [
+                ":hot_face:"
+            ]
+        },
+        "tags": [
+            "feverish",
+            "heat stroke",
+            "hot",
+            "hot face",
+            "red-faced",
+            "sweating"
+        ],
+        "codepoints": [
+            "U+1F975"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/hot-face_1f975.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Face Unwell",
+        "code": "1f976",
+        "emoji": "🥶",
+        "title": "Cold Face",
+        "aliases": [
+            "Cold Face"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":cold_face:"
+            ],
+            "github": [
+                ":cold_face:"
+            ],
+            "slack": [
+                ":cold_face:"
+            ],
+            "discord": [
+                ":cold_face:"
+            ]
+        },
+        "tags": [
+            "blue-faced",
+            "cold",
+            "cold face",
+            "freezing",
+            "frostbite",
+            "icicles"
+        ],
+        "codepoints": [
+            "U+1F976"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/cold-face_1f976.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Face Unwell",
+        "code": "1f974",
+        "emoji": "🥴",
+        "title": "Woozy Face",
+        "aliases": [
+            "Drunk Face",
+            "Woozy Face"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":woozy_face:"
+            ],
+            "github": [
+                ":woozy_face:"
+            ],
+            "slack": [
+                ":woozy_face:"
+            ],
+            "discord": [
+                ":woozy_face:"
+            ]
+        },
+        "tags": [
+            "dizzy",
+            "intoxicated",
+            "tipsy",
+            "uneven eyes",
+            "wavy mouth",
+            "woozy face"
+        ],
+        "codepoints": [
+            "U+1F974"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woozy-face_1f974.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Face Hat",
+        "code": "1f973",
+        "emoji": "🥳",
+        "title": "Partying Face",
+        "aliases": [
+            "Party Face"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":partying_face:"
+            ],
+            "github": [
+                ":partying_face:"
+            ],
+            "slack": [
+                ":partying_face:"
+            ],
+            "discord": [
+                ":partying_face:"
+            ]
+        },
+        "tags": [
+            "celebration",
+            "hat",
+            "horn",
+            "party",
+            "partying face"
+        ],
+        "codepoints": [
+            "U+1F973"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/partying-face_1f973.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Face Concerned",
+        "code": "1f97a",
+        "emoji": "🥺",
+        "title": "Pleading Face",
+        "aliases": [
+            "Begging",
+            "Glossy Eyes",
+            "Simp",
+            "Pleading Face"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":pleading_face:"
+            ],
+            "github": [
+                ":pleading_face:"
+            ],
+            "slack": [
+                ":pleading_face:"
+            ],
+            "discord": [
+                ":pleading_face:"
+            ]
+        },
+        "tags": [
+            "begging",
+            "mercy",
+            "pleading face",
+            "puppy eyes"
+        ],
+        "codepoints": [
+            "U+1F97A"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/pleading-face_1f97a.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b5",
+        "emoji": "🦵",
+        "title": "Leg",
+        "aliases": [
+            "Leg"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":leg:"
+            ],
+            "github": [
+                ":leg:"
+            ],
+            "slack": [
+                ":leg:"
+            ],
+            "discord": [
+                ":leg:"
+            ]
+        },
+        "tags": [
+            "kick",
+            "leg",
+            "limb"
+        ],
+        "codepoints": [
+            "U+1F9B5"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leg_1f9b5.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b5-1f3fb",
+        "emoji": "🦵🏻",
+        "title": "Leg: Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":leg_light_skin_tone:"
+            ],
+            "discord": [
+                ":leg_tone1:",
+                ":leg_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "kick",
+            "leg",
+            "limb"
+        ],
+        "codepoints": [
+            "U+1F9B5",
+            "U+1F3FB"
+        ],
+        "parent": "1f9b5",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leg_light-skin-tone_1f9b5-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b5-1f3fc",
+        "emoji": "🦵🏼",
+        "title": "Leg: Medium-Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":leg_medium_light_skin_tone:"
+            ],
+            "discord": [
+                ":leg_tone2:",
+                ":leg_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "kick",
+            "leg",
+            "limb"
+        ],
+        "codepoints": [
+            "U+1F9B5",
+            "U+1F3FC"
+        ],
+        "parent": "1f9b5",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leg_medium-light-skin-tone_1f9b5-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b5-1f3fd",
+        "emoji": "🦵🏽",
+        "title": "Leg: Medium Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":leg_medium_skin_tone:"
+            ],
+            "discord": [
+                ":leg_tone3:",
+                ":leg_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "kick",
+            "leg",
+            "limb"
+        ],
+        "codepoints": [
+            "U+1F9B5",
+            "U+1F3FD"
+        ],
+        "parent": "1f9b5",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leg_medium-skin-tone_1f9b5-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b5-1f3fe",
+        "emoji": "🦵🏾",
+        "title": "Leg: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":leg_medium_dark_skin_tone:"
+            ],
+            "discord": [
+                ":leg_tone4:",
+                ":leg_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "kick",
+            "leg",
+            "limb"
+        ],
+        "codepoints": [
+            "U+1F9B5",
+            "U+1F3FE"
+        ],
+        "parent": "1f9b5",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leg_medium-dark-skin-tone_1f9b5-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b5-1f3ff",
+        "emoji": "🦵🏿",
+        "title": "Leg: Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":leg_dark_skin_tone:"
+            ],
+            "discord": [
+                ":leg_tone5:",
+                ":leg_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "kick",
+            "leg",
+            "limb"
+        ],
+        "codepoints": [
+            "U+1F9B5",
+            "U+1F3FF"
+        ],
+        "parent": "1f9b5",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leg_dark-skin-tone_1f9b5-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b6",
+        "emoji": "🦶",
+        "title": "Foot",
+        "aliases": [
+            "Foot"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":foot:"
+            ],
+            "github": [
+                ":foot:"
+            ],
+            "slack": [
+                ":foot:"
+            ],
+            "discord": [
+                ":foot:"
+            ]
+        },
+        "tags": [
+            "foot",
+            "kick",
+            "stomp"
+        ],
+        "codepoints": [
+            "U+1F9B6"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/foot_1f9b6.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b6-1f3fb",
+        "emoji": "🦶🏻",
+        "title": "Foot: Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":foot_light_skin_tone:"
+            ],
+            "discord": [
+                ":foot_tone1:",
+                ":foot_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "foot",
+            "kick",
+            "stomp"
+        ],
+        "codepoints": [
+            "U+1F9B6",
+            "U+1F3FB"
+        ],
+        "parent": "1f9b6",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/foot_light-skin-tone_1f9b6-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b6-1f3fc",
+        "emoji": "🦶🏼",
+        "title": "Foot: Medium-Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":foot_medium_light_skin_tone:"
+            ],
+            "discord": [
+                ":foot_tone2:",
+                ":foot_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "foot",
+            "kick",
+            "stomp"
+        ],
+        "codepoints": [
+            "U+1F9B6",
+            "U+1F3FC"
+        ],
+        "parent": "1f9b6",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/foot_medium-light-skin-tone_1f9b6-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b6-1f3fd",
+        "emoji": "🦶🏽",
+        "title": "Foot: Medium Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":foot_medium_skin_tone:"
+            ],
+            "discord": [
+                ":foot_tone3:",
+                ":foot_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "foot",
+            "kick",
+            "stomp"
+        ],
+        "codepoints": [
+            "U+1F9B6",
+            "U+1F3FD"
+        ],
+        "parent": "1f9b6",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/foot_medium-skin-tone_1f9b6-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b6-1f3fe",
+        "emoji": "🦶🏾",
+        "title": "Foot: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":foot_medium_dark_skin_tone:"
+            ],
+            "discord": [
+                ":foot_tone4:",
+                ":foot_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "foot",
+            "kick",
+            "stomp"
+        ],
+        "codepoints": [
+            "U+1F9B6",
+            "U+1F3FE"
+        ],
+        "parent": "1f9b6",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/foot_medium-dark-skin-tone_1f9b6-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b6-1f3ff",
+        "emoji": "🦶🏿",
+        "title": "Foot: Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":foot_dark_skin_tone:"
+            ],
+            "discord": [
+                ":foot_tone5:",
+                ":foot_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "foot",
+            "kick",
+            "stomp"
+        ],
+        "codepoints": [
+            "U+1F9B6",
+            "U+1F3FF"
+        ],
+        "parent": "1f9b6",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/foot_dark-skin-tone_1f9b6-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b7",
+        "emoji": "🦷",
+        "title": "Tooth",
+        "aliases": [
+            "Tooth"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":tooth:"
+            ],
+            "github": [
+                ":tooth:"
+            ],
+            "slack": [
+                ":tooth:"
+            ],
+            "discord": [
+                ":tooth:"
+            ]
+        },
+        "tags": [
+            "dentist",
+            "tooth"
+        ],
+        "codepoints": [
+            "U+1F9B7"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/tooth_1f9b7.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Body Parts",
+        "code": "1f9b4",
+        "emoji": "🦴",
+        "title": "Bone",
+        "aliases": [
+            "Bone"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":bone:"
+            ],
+            "github": [
+                ":bone:"
+            ],
+            "slack": [
+                ":bone:"
+            ],
+            "discord": [
+                ":bone:"
+            ]
+        },
+        "tags": [
+            "bone",
+            "skeleton"
+        ],
+        "codepoints": [
+            "U+1F9B4"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/bone_1f9b4.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-200d-1f9b0",
+        "emoji": "👨‍🦰",
+        "title": "Man: Red Hair",
+        "aliases": [
+            "Ginger Man",
+            "Man Redhead",
+            "Man with Red Hair"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":man_red_hair:"
+            ],
+            "github": [
+                ":red_haired_man:"
+            ],
+            "slack": [
+                ":red_haired_man:"
+            ],
+            "discord": [
+                ":man_red_haired:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "red hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-red-hair_1f468-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fb-200d-1f9b0",
+        "emoji": "👨🏻‍🦰",
+        "title": "Man: Light Skin Tone, Red Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_light_skin_tone_red_hair:"
+            ],
+            "discord": [
+                ":man_red_haired_tone1:",
+                ":man_red_haired_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "red hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "parent": "1f468-200d-1f9b0",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-light-skin-tone-red-hair_1f468-1f3fb-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fc-200d-1f9b0",
+        "emoji": "👨🏼‍🦰",
+        "title": "Man: Medium-Light Skin Tone, Red Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_light_skin_tone_red_hair:"
+            ],
+            "discord": [
+                ":man_red_haired_tone2:",
+                ":man_red_haired_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "red hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "parent": "1f468-200d-1f9b0",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-light-skin-tone-red-hair_1f468-1f3fc-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fd-200d-1f9b0",
+        "emoji": "👨🏽‍🦰",
+        "title": "Man: Medium Skin Tone, Red Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_skin_tone_red_hair:"
+            ],
+            "discord": [
+                ":man_red_haired_tone3:",
+                ":man_red_haired_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "red hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "parent": "1f468-200d-1f9b0",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-skin-tone-red-hair_1f468-1f3fd-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fe-200d-1f9b0",
+        "emoji": "👨🏾‍🦰",
+        "title": "Man: Medium-Dark Skin Tone, Red Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_dark_skin_tone_red_hair:"
+            ],
+            "discord": [
+                ":man_red_haired_tone4:",
+                ":man_red_haired_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "red hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "parent": "1f468-200d-1f9b0",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-dark-skin-tone-red-hair_1f468-1f3fe-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3ff-200d-1f9b0",
+        "emoji": "👨🏿‍🦰",
+        "title": "Man: Dark Skin Tone, Red Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_dark_skin_tone_red_hair:"
+            ],
+            "discord": [
+                ":man_red_haired_tone5:",
+                ":man_red_haired_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "red hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "parent": "1f468-200d-1f9b0",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-dark-skin-tone-red-hair_1f468-1f3ff-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-200d-1f9b1",
+        "emoji": "👨‍🦱",
+        "title": "Man: Curly Hair",
+        "aliases": [
+            "Man with Curly Hair"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":man_curly_hair:"
+            ],
+            "github": [
+                ":curly_haired_man:"
+            ],
+            "slack": [
+                ":curly_haired_man:"
+            ],
+            "discord": [
+                ":man_curly_haired:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-curly-hair_1f468-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fb-200d-1f9b1",
+        "emoji": "👨🏻‍🦱",
+        "title": "Man: Light Skin Tone, Curly Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_light_skin_tone_curly_hair:"
+            ],
+            "discord": [
+                ":man_curly_haired_tone1:",
+                ":man_curly_haired_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "parent": "1f468-200d-1f9b1",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-light-skin-tone-curly-hair_1f468-1f3fb-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fc-200d-1f9b1",
+        "emoji": "👨🏼‍🦱",
+        "title": "Man: Medium-Light Skin Tone, Curly Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_light_skin_tone_curly_hair:"
+            ],
+            "discord": [
+                ":man_curly_haired_tone2:",
+                ":man_curly_haired_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "parent": "1f468-200d-1f9b1",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-light-skin-tone-curly-hair_1f468-1f3fc-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fd-200d-1f9b1",
+        "emoji": "👨🏽‍🦱",
+        "title": "Man: Medium Skin Tone, Curly Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_skin_tone_curly_hair:"
+            ],
+            "discord": [
+                ":man_curly_haired_tone3:",
+                ":man_curly_haired_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "parent": "1f468-200d-1f9b1",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-skin-tone-curly-hair_1f468-1f3fd-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fe-200d-1f9b1",
+        "emoji": "👨🏾‍🦱",
+        "title": "Man: Medium-Dark Skin Tone, Curly Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_dark_skin_tone_curly_hair:"
+            ],
+            "discord": [
+                ":man_curly_haired_tone4:",
+                ":man_curly_haired_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "parent": "1f468-200d-1f9b1",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-dark-skin-tone-curly-hair_1f468-1f3fe-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3ff-200d-1f9b1",
+        "emoji": "👨🏿‍🦱",
+        "title": "Man: Dark Skin Tone, Curly Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_dark_skin_tone_curly_hair:"
+            ],
+            "discord": [
+                ":man_curly_haired_tone5:",
+                ":man_curly_haired_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "parent": "1f468-200d-1f9b1",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-dark-skin-tone-curly-hair_1f468-1f3ff-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-200d-1f9b3",
+        "emoji": "👨‍🦳",
+        "title": "Man: White Hair",
+        "aliases": [
+            "Man with White Hair"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":man_white_hair:"
+            ],
+            "github": [
+                ":white_haired_man:"
+            ],
+            "slack": [
+                ":white_haired_man:"
+            ],
+            "discord": [
+                ":man_white_haired:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "white hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-white-hair_1f468-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fb-200d-1f9b3",
+        "emoji": "👨🏻‍🦳",
+        "title": "Man: Light Skin Tone, White Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_light_skin_tone_white_hair:"
+            ],
+            "discord": [
+                ":man_white_haired_tone1:",
+                ":man_white_haired_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "white hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "parent": "1f468-200d-1f9b3",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-light-skin-tone-white-hair_1f468-1f3fb-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fc-200d-1f9b3",
+        "emoji": "👨🏼‍🦳",
+        "title": "Man: Medium-Light Skin Tone, White Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_light_skin_tone_white_hair:"
+            ],
+            "discord": [
+                ":man_white_haired_tone2:",
+                ":man_white_haired_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "white hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "parent": "1f468-200d-1f9b3",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-light-skin-tone-white-hair_1f468-1f3fc-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fd-200d-1f9b3",
+        "emoji": "👨🏽‍🦳",
+        "title": "Man: Medium Skin Tone, White Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_skin_tone_white_hair:"
+            ],
+            "discord": [
+                ":man_white_haired_tone3:",
+                ":man_white_haired_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "white hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "parent": "1f468-200d-1f9b3",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-skin-tone-white-hair_1f468-1f3fd-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fe-200d-1f9b3",
+        "emoji": "👨🏾‍🦳",
+        "title": "Man: Medium-Dark Skin Tone, White Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_dark_skin_tone_white_hair:"
+            ],
+            "discord": [
+                ":man_white_haired_tone4:",
+                ":man_white_haired_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "white hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "parent": "1f468-200d-1f9b3",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-dark-skin-tone-white-hair_1f468-1f3fe-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3ff-200d-1f9b3",
+        "emoji": "👨🏿‍🦳",
+        "title": "Man: Dark Skin Tone, White Hair",
+        "shortcodes": {
+            "cldr": [
+                ":man_dark_skin_tone_white_hair:"
+            ],
+            "discord": [
+                ":man_white_haired_tone5:",
+                ":man_white_haired_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "man",
+            "white hair"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "parent": "1f468-200d-1f9b3",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-dark-skin-tone-white-hair_1f468-1f3ff-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-200d-1f9b2",
+        "emoji": "👨‍🦲",
+        "title": "Man: Bald",
+        "aliases": [
+            "Man with No Hair"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":man_bald:"
+            ],
+            "github": [
+                ":bald_man:"
+            ],
+            "slack": [
+                ":bald_man:"
+            ],
+            "discord": [
+                ":man_bald:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-bald_1f468-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fb-200d-1f9b2",
+        "emoji": "👨🏻‍🦲",
+        "title": "Man: Light Skin Tone, Bald",
+        "shortcodes": {
+            "cldr": [
+                ":man_light_skin_tone_bald:"
+            ],
+            "discord": [
+                ":man_bald_tone1:",
+                ":man_bald_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "parent": "1f468-200d-1f9b2",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-light-skin-tone-bald_1f468-1f3fb-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fc-200d-1f9b2",
+        "emoji": "👨🏼‍🦲",
+        "title": "Man: Medium-Light Skin Tone, Bald",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_light_skin_tone_bald:"
+            ],
+            "discord": [
+                ":man_bald_tone2:",
+                ":man_bald_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "parent": "1f468-200d-1f9b2",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-light-skin-tone-bald_1f468-1f3fc-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fd-200d-1f9b2",
+        "emoji": "👨🏽‍🦲",
+        "title": "Man: Medium Skin Tone, Bald",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_skin_tone_bald:"
+            ],
+            "discord": [
+                ":man_bald_tone3:",
+                ":man_bald_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "parent": "1f468-200d-1f9b2",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-skin-tone-bald_1f468-1f3fd-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3fe-200d-1f9b2",
+        "emoji": "👨🏾‍🦲",
+        "title": "Man: Medium-Dark Skin Tone, Bald",
+        "shortcodes": {
+            "cldr": [
+                ":man_medium_dark_skin_tone_bald:"
+            ],
+            "discord": [
+                ":man_bald_tone4:",
+                ":man_bald_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "parent": "1f468-200d-1f9b2",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-medium-dark-skin-tone-bald_1f468-1f3fe-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f468-1f3ff-200d-1f9b2",
+        "emoji": "👨🏿‍🦲",
+        "title": "Man: Dark Skin Tone, Bald",
+        "shortcodes": {
+            "cldr": [
+                ":man_dark_skin_tone_bald:"
+            ],
+            "discord": [
+                ":man_bald_tone5:",
+                ":man_bald_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F468",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "parent": "1f468-200d-1f9b2",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-dark-skin-tone-bald_1f468-1f3ff-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-200d-1f9b0",
+        "emoji": "👩‍🦰",
+        "title": "Woman: Red Hair",
+        "aliases": [
+            "Ginger Woman",
+            "Woman Redhead",
+            "Woman with Red Hair"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":woman_red_hair:"
+            ],
+            "github": [
+                ":red_haired_woman:"
+            ],
+            "slack": [
+                ":red_haired_woman:"
+            ],
+            "discord": [
+                ":woman_red_haired:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "red hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-red-hair_1f469-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fb-200d-1f9b0",
+        "emoji": "👩🏻‍🦰",
+        "title": "Woman: Light Skin Tone, Red Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_light_skin_tone_red_hair:"
+            ],
+            "discord": [
+                ":woman_red_haired_tone1:",
+                ":woman_red_haired_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "red hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "parent": "1f469-200d-1f9b0",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-light-skin-tone-red-hair_1f469-1f3fb-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fc-200d-1f9b0",
+        "emoji": "👩🏼‍🦰",
+        "title": "Woman: Medium-Light Skin Tone, Red Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_light_skin_tone_red_hair:"
+            ],
+            "discord": [
+                ":woman_red_haired_tone2:",
+                ":woman_red_haired_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "red hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "parent": "1f469-200d-1f9b0",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-light-skin-tone-red-hair_1f469-1f3fc-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fd-200d-1f9b0",
+        "emoji": "👩🏽‍🦰",
+        "title": "Woman: Medium Skin Tone, Red Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_skin_tone_red_hair:"
+            ],
+            "discord": [
+                ":woman_red_haired_tone3:",
+                ":woman_red_haired_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "red hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "parent": "1f469-200d-1f9b0",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-skin-tone-red-hair_1f469-1f3fd-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fe-200d-1f9b0",
+        "emoji": "👩🏾‍🦰",
+        "title": "Woman: Medium-Dark Skin Tone, Red Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_dark_skin_tone_red_hair:"
+            ],
+            "discord": [
+                ":woman_red_haired_tone4:",
+                ":woman_red_haired_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "red hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "parent": "1f469-200d-1f9b0",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-dark-skin-tone-red-hair_1f469-1f3fe-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3ff-200d-1f9b0",
+        "emoji": "👩🏿‍🦰",
+        "title": "Woman: Dark Skin Tone, Red Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_dark_skin_tone_red_hair:"
+            ],
+            "discord": [
+                ":woman_red_haired_tone5:",
+                ":woman_red_haired_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "red hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9B0"
+        ],
+        "parent": "1f469-200d-1f9b0",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-dark-skin-tone-red-hair_1f469-1f3ff-200d-1f9b0.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-200d-1f9b1",
+        "emoji": "👩‍🦱",
+        "title": "Woman: Curly Hair",
+        "aliases": [
+            "Woman with Curly Hair"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":woman_curly_hair:"
+            ],
+            "github": [
+                ":curly_haired_woman:"
+            ],
+            "slack": [
+                ":curly_haired_woman:"
+            ],
+            "discord": [
+                ":woman_curly_haired:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-curly-hair_1f469-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fb-200d-1f9b1",
+        "emoji": "👩🏻‍🦱",
+        "title": "Woman: Light Skin Tone, Curly Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_light_skin_tone_curly_hair:"
+            ],
+            "discord": [
+                ":woman_curly_haired_tone1:",
+                ":woman_curly_haired_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "parent": "1f469-200d-1f9b1",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-light-skin-tone-curly-hair_1f469-1f3fb-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fc-200d-1f9b1",
+        "emoji": "👩🏼‍🦱",
+        "title": "Woman: Medium-Light Skin Tone, Curly Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_light_skin_tone_curly_hair:"
+            ],
+            "discord": [
+                ":woman_curly_haired_tone2:",
+                ":woman_curly_haired_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "parent": "1f469-200d-1f9b1",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-light-skin-tone-curly-hair_1f469-1f3fc-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fd-200d-1f9b1",
+        "emoji": "👩🏽‍🦱",
+        "title": "Woman: Medium Skin Tone, Curly Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_skin_tone_curly_hair:"
+            ],
+            "discord": [
+                ":woman_curly_haired_tone3:",
+                ":woman_curly_haired_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "parent": "1f469-200d-1f9b1",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-skin-tone-curly-hair_1f469-1f3fd-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fe-200d-1f9b1",
+        "emoji": "👩🏾‍🦱",
+        "title": "Woman: Medium-Dark Skin Tone, Curly Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_dark_skin_tone_curly_hair:"
+            ],
+            "discord": [
+                ":woman_curly_haired_tone4:",
+                ":woman_curly_haired_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "parent": "1f469-200d-1f9b1",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-dark-skin-tone-curly-hair_1f469-1f3fe-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3ff-200d-1f9b1",
+        "emoji": "👩🏿‍🦱",
+        "title": "Woman: Dark Skin Tone, Curly Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_dark_skin_tone_curly_hair:"
+            ],
+            "discord": [
+                ":woman_curly_haired_tone5:",
+                ":woman_curly_haired_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "curly hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9B1"
+        ],
+        "parent": "1f469-200d-1f9b1",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-dark-skin-tone-curly-hair_1f469-1f3ff-200d-1f9b1.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-200d-1f9b3",
+        "emoji": "👩‍🦳",
+        "title": "Woman: White Hair",
+        "aliases": [
+            "Woman with White Hair"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":woman_white_hair:"
+            ],
+            "github": [
+                ":white_haired_woman:"
+            ],
+            "slack": [
+                ":white_haired_woman:"
+            ],
+            "discord": [
+                ":woman_white_haired:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "white hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-white-hair_1f469-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fb-200d-1f9b3",
+        "emoji": "👩🏻‍🦳",
+        "title": "Woman: Light Skin Tone, White Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_light_skin_tone_white_hair:"
+            ],
+            "discord": [
+                ":woman_white_haired_tone1:",
+                ":woman_white_haired_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "white hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "parent": "1f469-200d-1f9b3",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-light-skin-tone-white-hair_1f469-1f3fb-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fc-200d-1f9b3",
+        "emoji": "👩🏼‍🦳",
+        "title": "Woman: Medium-Light Skin Tone, White Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_light_skin_tone_white_hair:"
+            ],
+            "discord": [
+                ":woman_white_haired_tone2:",
+                ":woman_white_haired_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "white hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "parent": "1f469-200d-1f9b3",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-light-skin-tone-white-hair_1f469-1f3fc-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fd-200d-1f9b3",
+        "emoji": "👩🏽‍🦳",
+        "title": "Woman: Medium Skin Tone, White Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_skin_tone_white_hair:"
+            ],
+            "discord": [
+                ":woman_white_haired_tone3:",
+                ":woman_white_haired_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "white hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "parent": "1f469-200d-1f9b3",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-skin-tone-white-hair_1f469-1f3fd-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fe-200d-1f9b3",
+        "emoji": "👩🏾‍🦳",
+        "title": "Woman: Medium-Dark Skin Tone, White Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_dark_skin_tone_white_hair:"
+            ],
+            "discord": [
+                ":woman_white_haired_tone4:",
+                ":woman_white_haired_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "white hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "parent": "1f469-200d-1f9b3",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-dark-skin-tone-white-hair_1f469-1f3fe-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3ff-200d-1f9b3",
+        "emoji": "👩🏿‍🦳",
+        "title": "Woman: Dark Skin Tone, White Hair",
+        "shortcodes": {
+            "cldr": [
+                ":woman_dark_skin_tone_white_hair:"
+            ],
+            "discord": [
+                ":woman_white_haired_tone5:",
+                ":woman_white_haired_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "white hair",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9B3"
+        ],
+        "parent": "1f469-200d-1f9b3",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-dark-skin-tone-white-hair_1f469-1f3ff-200d-1f9b3.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-200d-1f9b2",
+        "emoji": "👩‍🦲",
+        "title": "Woman: Bald",
+        "aliases": [
+            "Woman with No Hair"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":woman_bald:"
+            ],
+            "github": [
+                ":bald_woman:"
+            ],
+            "slack": [
+                ":bald_woman:"
+            ],
+            "discord": [
+                ":woman_bald:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-bald_1f469-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fb-200d-1f9b2",
+        "emoji": "👩🏻‍🦲",
+        "title": "Woman: Light Skin Tone, Bald",
+        "shortcodes": {
+            "cldr": [
+                ":woman_light_skin_tone_bald:"
+            ],
+            "discord": [
+                ":woman_bald_tone1:",
+                ":woman_bald_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FB",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "parent": "1f469-200d-1f9b2",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-light-skin-tone-bald_1f469-1f3fb-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fc-200d-1f9b2",
+        "emoji": "👩🏼‍🦲",
+        "title": "Woman: Medium-Light Skin Tone, Bald",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_light_skin_tone_bald:"
+            ],
+            "discord": [
+                ":woman_bald_tone2:",
+                ":woman_bald_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FC",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "parent": "1f469-200d-1f9b2",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-light-skin-tone-bald_1f469-1f3fc-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fd-200d-1f9b2",
+        "emoji": "👩🏽‍🦲",
+        "title": "Woman: Medium Skin Tone, Bald",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_skin_tone_bald:"
+            ],
+            "discord": [
+                ":woman_bald_tone3:",
+                ":woman_bald_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FD",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "parent": "1f469-200d-1f9b2",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-skin-tone-bald_1f469-1f3fd-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3fe-200d-1f9b2",
+        "emoji": "👩🏾‍🦲",
+        "title": "Woman: Medium-Dark Skin Tone, Bald",
+        "shortcodes": {
+            "cldr": [
+                ":woman_medium_dark_skin_tone_bald:"
+            ],
+            "discord": [
+                ":woman_bald_tone4:",
+                ":woman_bald_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FE",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "parent": "1f469-200d-1f9b2",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-medium-dark-skin-tone-bald_1f469-1f3fe-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person",
+        "code": "1f469-1f3ff-200d-1f9b2",
+        "emoji": "👩🏿‍🦲",
+        "title": "Woman: Dark Skin Tone, Bald",
+        "shortcodes": {
+            "cldr": [
+                ":woman_dark_skin_tone_bald:"
+            ],
+            "discord": [
+                ":woman_bald_tone5:",
+                ":woman_bald_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "adult",
+            "bald",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F469",
+            "U+1F3FF",
+            "U+200D",
+            "U+1F9B2"
+        ],
+        "parent": "1f469-200d-1f9b2",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-dark-skin-tone-bald_1f469-1f3ff-200d-1f9b2.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8",
+        "emoji": "🦸",
+        "title": "Superhero",
+        "aliases": [
+            "Superhero"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":superhero:"
+            ],
+            "github": [
+                ":superhero:"
+            ],
+            "slack": [
+                ":superhero:"
+            ],
+            "discord": [
+                ":superhero:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/superhero_1f9b8.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fb",
+        "emoji": "🦸🏻",
+        "title": "Superhero: Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":superhero_light_skin_tone:"
+            ],
+            "discord": [
+                ":superhero_tone1:",
+                ":superhero_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FB"
+        ],
+        "parent": "1f9b8",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/superhero_light-skin-tone_1f9b8-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fc",
+        "emoji": "🦸🏼",
+        "title": "Superhero: Medium-Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":superhero_medium_light_skin_tone:"
+            ],
+            "discord": [
+                ":superhero_tone2:",
+                ":superhero_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FC"
+        ],
+        "parent": "1f9b8",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/superhero_medium-light-skin-tone_1f9b8-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fd",
+        "emoji": "🦸🏽",
+        "title": "Superhero: Medium Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":superhero_medium_skin_tone:"
+            ],
+            "discord": [
+                ":superhero_tone3:",
+                ":superhero_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FD"
+        ],
+        "parent": "1f9b8",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/superhero_medium-skin-tone_1f9b8-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fe",
+        "emoji": "🦸🏾",
+        "title": "Superhero: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":superhero_medium_dark_skin_tone:"
+            ],
+            "discord": [
+                ":superhero_tone4:",
+                ":superhero_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FE"
+        ],
+        "parent": "1f9b8",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/superhero_medium-dark-skin-tone_1f9b8-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3ff",
+        "emoji": "🦸🏿",
+        "title": "Superhero: Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":superhero_dark_skin_tone:"
+            ],
+            "discord": [
+                ":superhero_tone5:",
+                ":superhero_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FF"
+        ],
+        "parent": "1f9b8",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/superhero_dark-skin-tone_1f9b8-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-200d-2642-fe0f",
+        "emoji": "🦸‍♂️",
+        "title": "Man Superhero",
+        "aliases": [
+            "Man Superhero"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":man_superhero:"
+            ],
+            "github": [
+                ":superhero_man:"
+            ],
+            "slack": [
+                ":male_superhero:"
+            ],
+            "discord": [
+                ":man_superhero:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "man",
+            "man superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-superhero_1f9b8-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fb-200d-2642-fe0f",
+        "emoji": "🦸🏻‍♂️",
+        "title": "Man Superhero: Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":man_superhero_light_skin_tone:"
+            ],
+            "discord": [
+                ":man_superhero_tone1:",
+                ":man_superhero_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "man",
+            "man superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FB",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "parent": "1f9b8-200d-2642-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-superhero-light-skin-tone_1f9b8-1f3fb-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fc-200d-2642-fe0f",
+        "emoji": "🦸🏼‍♂️",
+        "title": "Man Superhero: Medium-Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":man_superhero_medium_light_skin_tone:"
+            ],
+            "discord": [
+                ":man_superhero_tone2:",
+                ":man_superhero_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "man",
+            "man superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FC",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "parent": "1f9b8-200d-2642-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-superhero-medium-light-skin-tone_1f9b8-1f3fc-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fd-200d-2642-fe0f",
+        "emoji": "🦸🏽‍♂️",
+        "title": "Man Superhero: Medium Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":man_superhero_medium_skin_tone:"
+            ],
+            "discord": [
+                ":man_superhero_tone3:",
+                ":man_superhero_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "man",
+            "man superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FD",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "parent": "1f9b8-200d-2642-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-superhero-medium-skin-tone_1f9b8-1f3fd-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fe-200d-2642-fe0f",
+        "emoji": "🦸🏾‍♂️",
+        "title": "Man Superhero: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":man_superhero_medium_dark_skin_tone:"
+            ],
+            "discord": [
+                ":man_superhero_tone4:",
+                ":man_superhero_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "man",
+            "man superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FE",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "parent": "1f9b8-200d-2642-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-superhero-medium-dark-skin-tone_1f9b8-1f3fe-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3ff-200d-2642-fe0f",
+        "emoji": "🦸🏿‍♂️",
+        "title": "Man Superhero: Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":man_superhero_dark_skin_tone:"
+            ],
+            "discord": [
+                ":man_superhero_tone5:",
+                ":man_superhero_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "man",
+            "man superhero",
+            "superpower"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FF",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "parent": "1f9b8-200d-2642-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-superhero-dark-skin-tone_1f9b8-1f3ff-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-200d-2640-fe0f",
+        "emoji": "🦸‍♀️",
+        "title": "Woman Superhero",
+        "aliases": [
+            "Woman Superhero"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":woman_superhero:"
+            ],
+            "github": [
+                ":superhero_woman:"
+            ],
+            "slack": [
+                ":female_superhero:"
+            ],
+            "discord": [
+                ":woman_superhero:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superpower",
+            "woman",
+            "woman superhero"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-superhero_1f9b8-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fb-200d-2640-fe0f",
+        "emoji": "🦸🏻‍♀️",
+        "title": "Woman Superhero: Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":woman_superhero_light_skin_tone:"
+            ],
+            "discord": [
+                ":woman_superhero_tone1:",
+                ":woman_superhero_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superpower",
+            "woman",
+            "woman superhero"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FB",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "parent": "1f9b8-200d-2640-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-superhero-light-skin-tone_1f9b8-1f3fb-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fc-200d-2640-fe0f",
+        "emoji": "🦸🏼‍♀️",
+        "title": "Woman Superhero: Medium-Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":woman_superhero_medium_light_skin_tone:"
+            ],
+            "discord": [
+                ":woman_superhero_tone2:",
+                ":woman_superhero_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superpower",
+            "woman",
+            "woman superhero"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FC",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "parent": "1f9b8-200d-2640-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-superhero-medium-light-skin-tone_1f9b8-1f3fc-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fd-200d-2640-fe0f",
+        "emoji": "🦸🏽‍♀️",
+        "title": "Woman Superhero: Medium Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":woman_superhero_medium_skin_tone:"
+            ],
+            "discord": [
+                ":woman_superhero_tone3:",
+                ":woman_superhero_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superpower",
+            "woman",
+            "woman superhero"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FD",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "parent": "1f9b8-200d-2640-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-superhero-medium-skin-tone_1f9b8-1f3fd-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3fe-200d-2640-fe0f",
+        "emoji": "🦸🏾‍♀️",
+        "title": "Woman Superhero: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":woman_superhero_medium_dark_skin_tone:"
+            ],
+            "discord": [
+                ":woman_superhero_tone4:",
+                ":woman_superhero_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superpower",
+            "woman",
+            "woman superhero"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FE",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "parent": "1f9b8-200d-2640-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-superhero-medium-dark-skin-tone_1f9b8-1f3fe-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b8-1f3ff-200d-2640-fe0f",
+        "emoji": "🦸🏿‍♀️",
+        "title": "Woman Superhero: Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":woman_superhero_dark_skin_tone:"
+            ],
+            "discord": [
+                ":woman_superhero_tone5:",
+                ":woman_superhero_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "good",
+            "hero",
+            "heroine",
+            "superpower",
+            "woman",
+            "woman superhero"
+        ],
+        "codepoints": [
+            "U+1F9B8",
+            "U+1F3FF",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "parent": "1f9b8-200d-2640-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-superhero-dark-skin-tone_1f9b8-1f3ff-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9",
+        "emoji": "🦹",
+        "title": "Supervillain",
+        "aliases": [
+            "Supervillain"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":supervillain:"
+            ],
+            "github": [
+                ":supervillain:"
+            ],
+            "slack": [
+                ":supervillain:"
+            ],
+            "discord": [
+                ":supervillain:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "supervillain",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/supervillain_1f9b9.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fb",
+        "emoji": "🦹🏻",
+        "title": "Supervillain: Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":supervillain_light_skin_tone:"
+            ],
+            "discord": [
+                ":supervillain_tone1:",
+                ":supervillain_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "supervillain",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FB"
+        ],
+        "parent": "1f9b9",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/supervillain_light-skin-tone_1f9b9-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fc",
+        "emoji": "🦹🏼",
+        "title": "Supervillain: Medium-Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":supervillain_medium_light_skin_tone:"
+            ],
+            "discord": [
+                ":supervillain_tone2:",
+                ":supervillain_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "supervillain",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FC"
+        ],
+        "parent": "1f9b9",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/supervillain_medium-light-skin-tone_1f9b9-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fd",
+        "emoji": "🦹🏽",
+        "title": "Supervillain: Medium Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":supervillain_medium_skin_tone:"
+            ],
+            "discord": [
+                ":supervillain_tone3:",
+                ":supervillain_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "supervillain",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FD"
+        ],
+        "parent": "1f9b9",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/supervillain_medium-skin-tone_1f9b9-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fe",
+        "emoji": "🦹🏾",
+        "title": "Supervillain: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":supervillain_medium_dark_skin_tone:"
+            ],
+            "discord": [
+                ":supervillain_tone4:",
+                ":supervillain_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "supervillain",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FE"
+        ],
+        "parent": "1f9b9",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/supervillain_medium-dark-skin-tone_1f9b9-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3ff",
+        "emoji": "🦹🏿",
+        "title": "Supervillain: Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":supervillain_dark_skin_tone:"
+            ],
+            "discord": [
+                ":supervillain_tone5:",
+                ":supervillain_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "supervillain",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FF"
+        ],
+        "parent": "1f9b9",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/supervillain_dark-skin-tone_1f9b9-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-200d-2642-fe0f",
+        "emoji": "🦹‍♂️",
+        "title": "Man Supervillain",
+        "aliases": [
+            "Man Supervillain"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":man_supervillain:"
+            ],
+            "github": [
+                ":supervillain_man:"
+            ],
+            "slack": [
+                ":male_supervillain:"
+            ],
+            "discord": [
+                ":man_supervillain:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "man",
+            "man supervillain",
+            "superpower",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-supervillain_1f9b9-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fb-200d-2642-fe0f",
+        "emoji": "🦹🏻‍♂️",
+        "title": "Man Supervillain: Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":man_supervillain_light_skin_tone:"
+            ],
+            "discord": [
+                ":man_supervillain_tone1:",
+                ":man_supervillain_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "man",
+            "man supervillain",
+            "superpower",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FB",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "parent": "1f9b9-200d-2642-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-supervillain-light-skin-tone_1f9b9-1f3fb-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fc-200d-2642-fe0f",
+        "emoji": "🦹🏼‍♂️",
+        "title": "Man Supervillain: Medium-Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":man_supervillain_medium_light_skin_tone:"
+            ],
+            "discord": [
+                ":man_supervillain_tone2:",
+                ":man_supervillain_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "man",
+            "man supervillain",
+            "superpower",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FC",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "parent": "1f9b9-200d-2642-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-supervillain-medium-light-skin-tone_1f9b9-1f3fc-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fd-200d-2642-fe0f",
+        "emoji": "🦹🏽‍♂️",
+        "title": "Man Supervillain: Medium Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":man_supervillain_medium_skin_tone:"
+            ],
+            "discord": [
+                ":man_supervillain_tone3:",
+                ":man_supervillain_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "man",
+            "man supervillain",
+            "superpower",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FD",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "parent": "1f9b9-200d-2642-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-supervillain-medium-skin-tone_1f9b9-1f3fd-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fe-200d-2642-fe0f",
+        "emoji": "🦹🏾‍♂️",
+        "title": "Man Supervillain: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":man_supervillain_medium_dark_skin_tone:"
+            ],
+            "discord": [
+                ":man_supervillain_tone4:",
+                ":man_supervillain_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "man",
+            "man supervillain",
+            "superpower",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FE",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "parent": "1f9b9-200d-2642-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-supervillain-medium-dark-skin-tone_1f9b9-1f3fe-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3ff-200d-2642-fe0f",
+        "emoji": "🦹🏿‍♂️",
+        "title": "Man Supervillain: Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":man_supervillain_dark_skin_tone:"
+            ],
+            "discord": [
+                ":man_supervillain_tone5:",
+                ":man_supervillain_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "man",
+            "man supervillain",
+            "superpower",
+            "villain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FF",
+            "U+200D",
+            "U+2642",
+            "U+FE0F"
+        ],
+        "parent": "1f9b9-200d-2642-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/man-supervillain-dark-skin-tone_1f9b9-1f3ff-200d-2642-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-200d-2640-fe0f",
+        "emoji": "🦹‍♀️",
+        "title": "Woman Supervillain",
+        "aliases": [
+            "Woman Supervillain"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":woman_supervillain:"
+            ],
+            "github": [
+                ":supervillain_woman:"
+            ],
+            "slack": [
+                ":female_supervillain:"
+            ],
+            "discord": [
+                ":woman_supervillain:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "villain",
+            "woman",
+            "woman supervillain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-supervillain_1f9b9-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fb-200d-2640-fe0f",
+        "emoji": "🦹🏻‍♀️",
+        "title": "Woman Supervillain: Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":woman_supervillain_light_skin_tone:"
+            ],
+            "discord": [
+                ":woman_supervillain_tone1:",
+                ":woman_supervillain_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "villain",
+            "woman",
+            "woman supervillain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FB",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "parent": "1f9b9-200d-2640-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-supervillain-light-skin-tone_1f9b9-1f3fb-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fc-200d-2640-fe0f",
+        "emoji": "🦹🏼‍♀️",
+        "title": "Woman Supervillain: Medium-Light Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":woman_supervillain_medium_light_skin_tone:"
+            ],
+            "discord": [
+                ":woman_supervillain_tone2:",
+                ":woman_supervillain_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "villain",
+            "woman",
+            "woman supervillain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FC",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "parent": "1f9b9-200d-2640-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-supervillain-medium-light-skin-tone_1f9b9-1f3fc-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fd-200d-2640-fe0f",
+        "emoji": "🦹🏽‍♀️",
+        "title": "Woman Supervillain: Medium Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":woman_supervillain_medium_skin_tone:"
+            ],
+            "discord": [
+                ":woman_supervillain_tone3:",
+                ":woman_supervillain_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "villain",
+            "woman",
+            "woman supervillain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FD",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "parent": "1f9b9-200d-2640-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-supervillain-medium-skin-tone_1f9b9-1f3fd-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3fe-200d-2640-fe0f",
+        "emoji": "🦹🏾‍♀️",
+        "title": "Woman Supervillain: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":woman_supervillain_medium_dark_skin_tone:"
+            ],
+            "discord": [
+                ":woman_supervillain_tone4:",
+                ":woman_supervillain_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "villain",
+            "woman",
+            "woman supervillain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FE",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "parent": "1f9b9-200d-2640-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-supervillain-medium-dark-skin-tone_1f9b9-1f3fe-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Fantasy",
+        "code": "1f9b9-1f3ff-200d-2640-fe0f",
+        "emoji": "🦹🏿‍♀️",
+        "title": "Woman Supervillain: Dark Skin Tone",
+        "shortcodes": {
+            "cldr": [
+                ":woman_supervillain_dark_skin_tone:"
+            ],
+            "discord": [
+                ":woman_supervillain_tone5:",
+                ":woman_supervillain_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "criminal",
+            "evil",
+            "superpower",
+            "villain",
+            "woman",
+            "woman supervillain"
+        ],
+        "codepoints": [
+            "U+1F9B9",
+            "U+1F3FF",
+            "U+200D",
+            "U+2640",
+            "U+FE0F"
+        ],
+        "parent": "1f9b9-200d-2640-fe0f",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/woman-supervillain-dark-skin-tone_1f9b9-1f3ff-200d-2640-fe0f.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f99d",
+        "emoji": "🦝",
+        "title": "Raccoon",
+        "aliases": [
+            "Raccoon"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":raccoon:"
+            ],
+            "github": [
+                ":raccoon:"
+            ],
+            "slack": [
+                ":raccoon:"
+            ],
+            "discord": [
+                ":raccoon:"
+            ]
+        },
+        "tags": [
+            "curious",
+            "raccoon",
+            "sly"
+        ],
+        "codepoints": [
+            "U+1F99D"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/raccoon_1f99d.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f999",
+        "emoji": "🦙",
+        "title": "Llama",
+        "aliases": [
+            "Alpaca",
+            "Llama"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":llama:"
+            ],
+            "github": [
+                ":llama:"
+            ],
+            "slack": [
+                ":llama:"
+            ],
+            "discord": [
+                ":llama:"
+            ]
+        },
+        "tags": [
+            "alpaca",
+            "guanaco",
+            "llama",
+            "vicuña",
+            "wool"
+        ],
+        "codepoints": [
+            "U+1F999"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/llama_1f999.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f99b",
+        "emoji": "🦛",
+        "title": "Hippopotamus",
+        "aliases": [
+            "Hippo",
+            "Hippopotamus"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":hippopotamus:"
+            ],
+            "github": [
+                ":hippopotamus:"
+            ],
+            "slack": [
+                ":hippopotamus:"
+            ],
+            "discord": [
+                ":hippopotamus:"
+            ]
+        },
+        "tags": [
+            "hippo",
+            "hippopotamus"
+        ],
+        "codepoints": [
+            "U+1F99B"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/hippopotamus_1f99b.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f998",
+        "emoji": "🦘",
+        "title": "Kangaroo",
+        "aliases": [
+            "Roo",
+            "Kangaroo"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":kangaroo:"
+            ],
+            "github": [
+                ":kangaroo:"
+            ],
+            "slack": [
+                ":kangaroo:"
+            ],
+            "discord": [
+                ":kangaroo:"
+            ]
+        },
+        "tags": [
+            "joey",
+            "jump",
+            "kangaroo",
+            "marsupial"
+        ],
+        "codepoints": [
+            "U+1F998"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/kangaroo_1f998.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f9a1",
+        "emoji": "🦡",
+        "title": "Badger",
+        "aliases": [
+            "Badger"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":badger:"
+            ],
+            "github": [
+                ":badger:"
+            ],
+            "slack": [
+                ":badger:"
+            ],
+            "discord": [
+                ":badger:"
+            ]
+        },
+        "tags": [
+            "badger",
+            "honey badger",
+            "pester"
+        ],
+        "codepoints": [
+            "U+1F9A1"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/badger_1f9a1.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "code": "1f9a2",
+        "emoji": "🦢",
+        "title": "Swan",
+        "aliases": [
+            "Swan"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":swan:"
+            ],
+            "github": [
+                ":swan:"
+            ],
+            "slack": [
+                ":swan:"
+            ],
+            "discord": [
+                ":swan:"
+            ]
+        },
+        "tags": [
+            "bird",
+            "cygnet",
+            "swan",
+            "ugly duckling"
+        ],
+        "codepoints": [
+            "U+1F9A2"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/swan_1f9a2.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "code": "1f99a",
+        "emoji": "🦚",
+        "title": "Peacock",
+        "aliases": [
+            "Peacock"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":peacock:"
+            ],
+            "github": [
+                ":peacock:"
+            ],
+            "slack": [
+                ":peacock:"
+            ],
+            "discord": [
+                ":peacock:"
+            ]
+        },
+        "tags": [
+            "bird",
+            "ostentatious",
+            "peacock",
+            "peahen",
+            "proud"
+        ],
+        "codepoints": [
+            "U+1F99A"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/peacock_1f99a.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "code": "1f99c",
+        "emoji": "🦜",
+        "title": "Parrot",
+        "aliases": [
+            "Parrot"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":parrot:"
+            ],
+            "github": [
+                ":parrot:"
+            ],
+            "slack": [
+                ":parrot:"
+            ],
+            "discord": [
+                ":parrot:"
+            ]
+        },
+        "tags": [
+            "bird",
+            "parrot",
+            "pirate",
+            "talk"
+        ],
+        "codepoints": [
+            "U+1F99C"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/parrot_1f99c.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bug",
+        "code": "1f99f",
+        "emoji": "🦟",
+        "title": "Mosquito",
+        "aliases": [
+            "Mosquito"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":mosquito:"
+            ],
+            "github": [
+                ":mosquito:"
+            ],
+            "slack": [
+                ":mosquito:"
+            ],
+            "discord": [
+                ":mosquito:"
+            ]
+        },
+        "tags": [
+            "disease",
+            "fever",
+            "malaria",
+            "mosquito",
+            "pest",
+            "virus"
+        ],
+        "codepoints": [
+            "U+1F99F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/mosquito_1f99f.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bug",
+        "code": "1f9a0",
+        "emoji": "🦠",
+        "title": "Microbe",
+        "aliases": [
+            "Cell",
+            "Coronavirus",
+            "COVID-19",
+            "Germ",
+            "Microorganism",
+            "Virus",
+            "Microbe"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":microbe:"
+            ],
+            "github": [
+                ":microbe:"
+            ],
+            "slack": [
+                ":microbe:"
+            ],
+            "discord": [
+                ":microbe:"
+            ]
+        },
+        "tags": [
+            "amoeba",
+            "bacteria",
+            "microbe",
+            "virus"
+        ],
+        "codepoints": [
+            "U+1F9A0"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/microbe_1f9a0.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Fruit",
+        "code": "1f96d",
+        "emoji": "🥭",
+        "title": "Mango",
+        "aliases": [
+            "Mango"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":mango:"
+            ],
+            "github": [
+                ":mango:"
+            ],
+            "slack": [
+                ":mango:"
+            ],
+            "discord": [
+                ":mango:"
+            ]
+        },
+        "tags": [
+            "fruit",
+            "mango",
+            "tropical"
+        ],
+        "codepoints": [
+            "U+1F96D"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/mango_1f96d.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1f96c",
+        "emoji": "🥬",
+        "title": "Leafy Green",
+        "aliases": [
+            "Bok Choy",
+            "Chinese Cabbage",
+            "Cos Lettuce",
+            "Romaine Lettuce",
+            "Leafy Greens"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":leafy_green:"
+            ],
+            "github": [
+                ":leafy_green:"
+            ],
+            "slack": [
+                ":leafy_green:"
+            ],
+            "discord": [
+                ":leafy_green:"
+            ]
+        },
+        "tags": [
+            "bok choy",
+            "cabbage",
+            "kale",
+            "leafy green",
+            "lettuce"
+        ],
+        "codepoints": [
+            "U+1F96C"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leafy-green_1f96c.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "code": "1f96f",
+        "emoji": "🥯",
+        "title": "Bagel",
+        "aliases": [
+            "Bagel"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":bagel:"
+            ],
+            "github": [
+                ":bagel:"
+            ],
+            "slack": [
+                ":bagel:"
+            ],
+            "discord": [
+                ":bagel:"
+            ]
+        },
+        "tags": [
+            "bagel",
+            "bakery",
+            "breakfast",
+            "schmear"
+        ],
+        "codepoints": [
+            "U+1F96F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/bagel_1f96f.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "code": "1f9c2",
+        "emoji": "🧂",
+        "title": "Salt",
+        "aliases": [
+            "Salt"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":salt:"
+            ],
+            "github": [
+                ":salt:"
+            ],
+            "slack": [
+                ":salt:"
+            ],
+            "discord": [
+                ":salt:"
+            ]
+        },
+        "tags": [
+            "condiment",
+            "salt",
+            "shaker"
+        ],
+        "codepoints": [
+            "U+1F9C2"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/salt_1f9c2.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Asian",
+        "code": "1f96e",
+        "emoji": "🥮",
+        "title": "Moon Cake",
+        "aliases": [
+            "Mooncake"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":moon_cake:"
+            ],
+            "github": [
+                ":moon_cake:"
+            ],
+            "slack": [
+                ":moon_cake:"
+            ],
+            "discord": [
+                ":moon_cake:"
+            ]
+        },
+        "tags": [
+            "autumn",
+            "festival",
+            "moon cake",
+            "yuèbǐng"
+        ],
+        "codepoints": [
+            "U+1F96E"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/moon-cake_1f96e.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Food Marine",
+        "code": "1f99e",
+        "emoji": "🦞",
+        "title": "Lobster",
+        "aliases": [
+            "Lobster"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":lobster:"
+            ],
+            "github": [
+                ":lobster:"
+            ],
+            "slack": [
+                ":lobster:"
+            ],
+            "discord": [
+                ":lobster:"
+            ]
+        },
+        "tags": [
+            "bisque",
+            "claws",
+            "lobster",
+            "seafood"
+        ],
+        "codepoints": [
+            "U+1F99E"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/lobster_1f99e.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Sweet",
+        "code": "1f9c1",
+        "emoji": "🧁",
+        "title": "Cupcake",
+        "aliases": [
+            "Fairy Cake",
+            "Cupcake"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":cupcake:"
+            ],
+            "github": [
+                ":cupcake:"
+            ],
+            "slack": [
+                ":cupcake:"
+            ],
+            "discord": [
+                ":cupcake:"
+            ]
+        },
+        "tags": [
+            "bakery",
+            "cupcake",
+            "sweet"
+        ],
+        "codepoints": [
+            "U+1F9C1"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/cupcake_1f9c1.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Map",
+        "code": "1f9ed",
+        "emoji": "🧭",
+        "title": "Compass",
+        "aliases": [
+            "Compass"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":compass:"
+            ],
+            "github": [
+                ":compass:"
+            ],
+            "slack": [
+                ":compass:"
+            ],
+            "discord": [
+                ":compass:"
+            ]
+        },
+        "tags": [
+            "compass",
+            "magnetic",
+            "navigation",
+            "orienteering"
+        ],
+        "codepoints": [
+            "U+1F9ED"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/compass_1f9ed.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Building",
+        "code": "1f9f1",
+        "emoji": "🧱",
+        "title": "Brick",
+        "aliases": [
+            "Bricks"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":brick:"
+            ],
+            "github": [
+                ":bricks:"
+            ],
+            "slack": [
+                ":bricks:"
+            ],
+            "discord": [
+                ":bricks:"
+            ]
+        },
+        "tags": [
+            "brick",
+            "bricks",
+            "clay",
+            "mortar",
+            "wall"
+        ],
+        "codepoints": [
+            "U+1F9F1"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/brick_1f9f1.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "code": "1f6f9",
+        "emoji": "🛹",
+        "title": "Skateboard",
+        "aliases": [
+            "Skateboard"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":skateboard:"
+            ],
+            "github": [
+                ":skateboard:"
+            ],
+            "slack": [
+                ":skateboard:"
+            ]
+        },
+        "tags": [
+            "board",
+            "skateboard"
+        ],
+        "codepoints": [
+            "U+1F6F9"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/skateboard_1f6f9.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Hotel",
+        "code": "1f9f3",
+        "emoji": "🧳",
+        "title": "Luggage",
+        "aliases": [
+            "Suitcase",
+            "Luggage"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":luggage:"
+            ],
+            "github": [
+                ":luggage:"
+            ],
+            "slack": [
+                ":luggage:"
+            ],
+            "discord": [
+                ":luggage:"
+            ]
+        },
+        "tags": [
+            "luggage",
+            "packing",
+            "travel"
+        ],
+        "codepoints": [
+            "U+1F9F3"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/luggage_1f9f3.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Event",
+        "code": "1f9e8",
+        "emoji": "🧨",
+        "title": "Firecracker",
+        "aliases": [
+            "Dynamite",
+            "Firecracker"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":firecracker:"
+            ],
+            "github": [
+                ":firecracker:"
+            ],
+            "slack": [
+                ":firecracker:"
+            ],
+            "discord": [
+                ":firecracker:"
+            ]
+        },
+        "tags": [
+            "dynamite",
+            "explosive",
+            "firecracker",
+            "fireworks"
+        ],
+        "codepoints": [
+            "U+1F9E8"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/firecracker_1f9e8.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Event",
+        "code": "1f9e7",
+        "emoji": "🧧",
+        "title": "Red Envelope",
+        "aliases": [
+            "Ang Pao",
+            "Hóngbāo",
+            "Lai See",
+            "Red Packet",
+            "Red Gift Envelope"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":red_envelope:"
+            ],
+            "github": [
+                ":red_envelope:"
+            ],
+            "slack": [
+                ":red_envelope:"
+            ],
+            "discord": [
+                ":red_envelope:"
+            ]
+        },
+        "tags": [
+            "gift",
+            "good luck",
+            "hóngbāo",
+            "lai see",
+            "money",
+            "red envelope"
+        ],
+        "codepoints": [
+            "U+1F9E7"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/red-envelope_1f9e7.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Sport",
+        "code": "1f94e",
+        "emoji": "🥎",
+        "title": "Softball",
+        "aliases": [
+            "Softball"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":softball:"
+            ],
+            "github": [
+                ":softball:"
+            ],
+            "slack": [
+                ":softball:"
+            ],
+            "discord": [
+                ":softball:"
+            ]
+        },
+        "tags": [
+            "ball",
+            "glove",
+            "softball",
+            "underarm"
+        ],
+        "codepoints": [
+            "U+1F94E"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/softball_1f94e.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Sport",
+        "code": "1f94f",
+        "emoji": "🥏",
+        "title": "Flying Disc",
+        "aliases": [
+            "Flying Disc"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":flying_disc:"
+            ],
+            "github": [
+                ":flying_disc:"
+            ],
+            "slack": [
+                ":flying_disc:"
+            ],
+            "discord": [
+                ":flying_disc:"
+            ]
+        },
+        "tags": [
+            "flying disc",
+            "ultimate"
+        ],
+        "codepoints": [
+            "U+1F94F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/flying-disc_1f94f.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Sport",
+        "code": "1f94d",
+        "emoji": "🥍",
+        "title": "Lacrosse",
+        "aliases": [
+            "Lacrosse Stick and Ball"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":lacrosse:"
+            ],
+            "github": [
+                ":lacrosse:"
+            ],
+            "slack": [
+                ":lacrosse:"
+            ],
+            "discord": [
+                ":lacrosse:"
+            ]
+        },
+        "tags": [
+            "ball",
+            "goal",
+            "lacrosse",
+            "stick"
+        ],
+        "codepoints": [
+            "U+1F94D"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/lacrosse_1f94d.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Game",
+        "code": "1f9e9",
+        "emoji": "🧩",
+        "title": "Puzzle Piece",
+        "aliases": [
+            "Puzzle Piece"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":puzzle_piece:"
+            ],
+            "github": [
+                ":jigsaw:"
+            ],
+            "slack": [
+                ":jigsaw:"
+            ],
+            "discord": [
+                ":jigsaw:"
+            ]
+        },
+        "tags": [
+            "clue",
+            "interlocking",
+            "jigsaw",
+            "piece",
+            "puzzle"
+        ],
+        "codepoints": [
+            "U+1F9E9"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/puzzle-piece_1f9e9.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Game",
+        "code": "1f9f8",
+        "emoji": "🧸",
+        "title": "Teddy Bear",
+        "aliases": [
+            "Toy",
+            "Teddy Bear"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":teddy_bear:"
+            ],
+            "github": [
+                ":teddy_bear:"
+            ],
+            "slack": [
+                ":teddy_bear:"
+            ],
+            "discord": [
+                ":teddy_bear:"
+            ]
+        },
+        "tags": [
+            "plaything",
+            "plush",
+            "stuffed",
+            "teddy bear",
+            "toy"
+        ],
+        "codepoints": [
+            "U+1F9F8"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/teddy-bear_1f9f8.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Game",
+        "code": "265f-fe0f",
+        "emoji": "♟️",
+        "title": "Chess Pawn",
+        "aliases": [
+            "Chess Pawn"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":chess_pawn:"
+            ],
+            "github": [
+                ":chess_pawn:"
+            ],
+            "slack": [
+                ":chess_pawn:"
+            ],
+            "discord": [
+                ":chess_pawn:"
+            ]
+        },
+        "tags": [
+            "chess",
+            "chess pawn",
+            "dupe",
+            "expendable"
+        ],
+        "codepoints": [
+            "U+265F",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/chess-pawn_265f-fe0f.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Arts & Crafts",
+        "code": "1f9f5",
+        "emoji": "🧵",
+        "title": "Thread",
+        "aliases": [
+            "Thread"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":thread:"
+            ],
+            "github": [
+                ":thread:"
+            ],
+            "slack": [
+                ":thread:"
+            ],
+            "discord": [
+                ":thread:"
+            ]
+        },
+        "tags": [
+            "needle",
+            "sewing",
+            "spool",
+            "string",
+            "thread"
+        ],
+        "codepoints": [
+            "U+1F9F5"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/thread_1f9f5.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Arts & Crafts",
+        "code": "1f9f6",
+        "emoji": "🧶",
+        "title": "Yarn",
+        "aliases": [
+            "Yarn"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":yarn:"
+            ],
+            "github": [
+                ":yarn:"
+            ],
+            "slack": [
+                ":yarn:"
+            ],
+            "discord": [
+                ":yarn:"
+            ]
+        },
+        "tags": [
+            "ball",
+            "crochet",
+            "knit",
+            "yarn"
+        ],
+        "codepoints": [
+            "U+1F9F6"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/yarn_1f9f6.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "code": "1f97d",
+        "emoji": "🥽",
+        "title": "Goggles",
+        "aliases": [
+            "Goggles"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":goggles:"
+            ],
+            "github": [
+                ":goggles:"
+            ],
+            "slack": [
+                ":goggles:"
+            ],
+            "discord": [
+                ":goggles:"
+            ]
+        },
+        "tags": [
+            "eye protection",
+            "goggles",
+            "swimming",
+            "welding"
+        ],
+        "codepoints": [
+            "U+1F97D"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/goggles_1f97d.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "code": "1f97c",
+        "emoji": "🥼",
+        "title": "Lab Coat",
+        "aliases": [
+            "Lab Coat"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":lab_coat:"
+            ],
+            "github": [
+                ":lab_coat:"
+            ],
+            "slack": [
+                ":lab_coat:"
+            ],
+            "discord": [
+                ":lab_coat:"
+            ]
+        },
+        "tags": [
+            "doctor",
+            "experiment",
+            "lab coat",
+            "scientist"
+        ],
+        "codepoints": [
+            "U+1F97C"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/lab-coat_1f97c.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "code": "1f97e",
+        "emoji": "🥾",
+        "title": "Hiking Boot",
+        "aliases": [
+            "Hiking Boot"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":hiking_boot:"
+            ],
+            "github": [
+                ":hiking_boot:"
+            ],
+            "slack": [
+                ":hiking_boot:"
+            ],
+            "discord": [
+                ":hiking_boot:"
+            ]
+        },
+        "tags": [
+            "backpacking",
+            "boot",
+            "camping",
+            "hiking"
+        ],
+        "codepoints": [
+            "U+1F97E"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/hiking-boot_1f97e.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "code": "1f97f",
+        "emoji": "🥿",
+        "title": "Flat Shoe",
+        "aliases": [
+            "Flat Shoe"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":flat_shoe:"
+            ],
+            "github": [
+                ":flat_shoe:"
+            ],
+            "slack": [
+                ":womans_flat_shoe:"
+            ],
+            "discord": [
+                ":womans_flat_shoe:"
+            ]
+        },
+        "tags": [
+            "ballet flat",
+            "flat shoe",
+            "slip-on",
+            "slipper"
+        ],
+        "codepoints": [
+            "U+1F97F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/flat-shoe_1f97f.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Computer",
+        "code": "1f9ee",
+        "emoji": "🧮",
+        "title": "Abacus",
+        "aliases": [
+            "Abacus"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":abacus:"
+            ],
+            "github": [
+                ":abacus:"
+            ],
+            "slack": [
+                ":abacus:"
+            ],
+            "discord": [
+                ":abacus:"
+            ]
+        },
+        "tags": [
+            "abacus",
+            "calculation"
+        ],
+        "codepoints": [
+            "U+1F9EE"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/abacus_1f9ee.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Money",
+        "code": "1f9fe",
+        "emoji": "🧾",
+        "title": "Receipt",
+        "aliases": [
+            "Receipt"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":receipt:"
+            ],
+            "github": [
+                ":receipt:"
+            ],
+            "slack": [
+                ":receipt:"
+            ],
+            "discord": [
+                ":receipt:"
+            ]
+        },
+        "tags": [
+            "accounting",
+            "bookkeeping",
+            "evidence",
+            "proof",
+            "receipt"
+        ],
+        "codepoints": [
+            "U+1F9FE"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/receipt_1f9fe.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Tool",
+        "code": "1f9f0",
+        "emoji": "🧰",
+        "title": "Toolbox",
+        "aliases": [
+            "Toolbox"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":toolbox:"
+            ],
+            "github": [
+                ":toolbox:"
+            ],
+            "slack": [
+                ":toolbox:"
+            ],
+            "discord": [
+                ":toolbox:"
+            ]
+        },
+        "tags": [
+            "chest",
+            "mechanic",
+            "tool",
+            "toolbox"
+        ],
+        "codepoints": [
+            "U+1F9F0"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/toolbox_1f9f0.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Tool",
+        "code": "1f9f2",
+        "emoji": "🧲",
+        "title": "Magnet",
+        "aliases": [
+            "Magnet"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":magnet:"
+            ],
+            "github": [
+                ":magnet:"
+            ],
+            "slack": [
+                ":magnet:"
+            ],
+            "discord": [
+                ":magnet:"
+            ]
+        },
+        "tags": [
+            "attraction",
+            "horseshoe",
+            "magnet",
+            "magnetic"
+        ],
+        "codepoints": [
+            "U+1F9F2"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/magnet_1f9f2.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Science",
+        "code": "1f9ea",
+        "emoji": "🧪",
+        "title": "Test Tube",
+        "aliases": [
+            "Test Tube"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":test_tube:"
+            ],
+            "github": [
+                ":test_tube:"
+            ],
+            "slack": [
+                ":test_tube:"
+            ],
+            "discord": [
+                ":test_tube:"
+            ]
+        },
+        "tags": [
+            "chemist",
+            "chemistry",
+            "experiment",
+            "lab",
+            "science",
+            "test tube"
+        ],
+        "codepoints": [
+            "U+1F9EA"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/test-tube_1f9ea.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Science",
+        "code": "1f9eb",
+        "emoji": "🧫",
+        "title": "Petri Dish",
+        "aliases": [
+            "Petri Dish"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":petri_dish:"
+            ],
+            "github": [
+                ":petri_dish:"
+            ],
+            "slack": [
+                ":petri_dish:"
+            ],
+            "discord": [
+                ":petri_dish:"
+            ]
+        },
+        "tags": [
+            "bacteria",
+            "biologist",
+            "biology",
+            "culture",
+            "lab",
+            "petri dish"
+        ],
+        "codepoints": [
+            "U+1F9EB"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/petri-dish_1f9eb.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Science",
+        "code": "1f9ec",
+        "emoji": "🧬",
+        "title": "DNA",
+        "aliases": [
+            "DNA"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":dna:"
+            ],
+            "github": [
+                ":dna:"
+            ],
+            "slack": [
+                ":dna:"
+            ],
+            "discord": [
+                ":dna:"
+            ]
+        },
+        "tags": [
+            "biologist",
+            "dna",
+            "evolution",
+            "gene",
+            "genetics",
+            "life"
+        ],
+        "codepoints": [
+            "U+1F9EC"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/dna_1f9ec.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f9f4",
+        "emoji": "🧴",
+        "title": "Lotion Bottle",
+        "aliases": [
+            "Lotion Bottle"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":lotion_bottle:"
+            ],
+            "github": [
+                ":lotion_bottle:"
+            ],
+            "slack": [
+                ":lotion_bottle:"
+            ],
+            "discord": [
+                ":squeeze_bottle:"
+            ]
+        },
+        "tags": [
+            "lotion",
+            "lotion bottle",
+            "moisturizer",
+            "shampoo",
+            "sunscreen"
+        ],
+        "codepoints": [
+            "U+1F9F4"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/lotion-bottle_1f9f4.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f9f7",
+        "emoji": "🧷",
+        "title": "Safety Pin",
+        "aliases": [
+            "Safety Pin"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":safety_pin:"
+            ],
+            "github": [
+                ":safety_pin:"
+            ],
+            "slack": [
+                ":safety_pin:"
+            ],
+            "discord": [
+                ":safety_pin:"
+            ]
+        },
+        "tags": [
+            "diaper",
+            "punk rock",
+            "safety pin"
+        ],
+        "codepoints": [
+            "U+1F9F7"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/safety-pin_1f9f7.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f9f9",
+        "emoji": "🧹",
+        "title": "Broom",
+        "aliases": [
+            "Brush",
+            "Sweep",
+            "Broom"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":broom:"
+            ],
+            "github": [
+                ":broom:"
+            ],
+            "slack": [
+                ":broom:"
+            ],
+            "discord": [
+                ":broom:"
+            ]
+        },
+        "tags": [
+            "broom",
+            "cleaning",
+            "sweeping",
+            "witch"
+        ],
+        "codepoints": [
+            "U+1F9F9"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/broom_1f9f9.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f9fa",
+        "emoji": "🧺",
+        "title": "Basket",
+        "aliases": [
+            "Basket"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":basket:"
+            ],
+            "github": [
+                ":basket:"
+            ],
+            "slack": [
+                ":basket:"
+            ],
+            "discord": [
+                ":basket:"
+            ]
+        },
+        "tags": [
+            "basket",
+            "farming",
+            "laundry",
+            "picnic"
+        ],
+        "codepoints": [
+            "U+1F9FA"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/basket_1f9fa.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f9fb",
+        "emoji": "🧻",
+        "title": "Roll of Paper",
+        "aliases": [
+            "Toilet Paper",
+            "Roll of Paper"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":roll_of_paper:"
+            ],
+            "github": [
+                ":roll_of_paper:"
+            ],
+            "slack": [
+                ":roll_of_paper:"
+            ],
+            "discord": [
+                ":roll_of_paper:"
+            ]
+        },
+        "tags": [
+            "paper towels",
+            "roll of paper",
+            "toilet paper"
+        ],
+        "codepoints": [
+            "U+1F9FB"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/roll-of-paper_1f9fb.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f9fc",
+        "emoji": "🧼",
+        "title": "Soap",
+        "aliases": [
+            "Soap"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":soap:"
+            ],
+            "github": [
+                ":soap:"
+            ],
+            "slack": [
+                ":soap:"
+            ],
+            "discord": [
+                ":soap:"
+            ]
+        },
+        "tags": [
+            "bar",
+            "bathing",
+            "cleaning",
+            "lather",
+            "soap",
+            "soapdish"
+        ],
+        "codepoints": [
+            "U+1F9FC"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/soap_1f9fc.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f9fd",
+        "emoji": "🧽",
+        "title": "Sponge",
+        "aliases": [
+            "Sponge"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":sponge:"
+            ],
+            "github": [
+                ":sponge:"
+            ],
+            "slack": [
+                ":sponge:"
+            ],
+            "discord": [
+                ":sponge:"
+            ]
+        },
+        "tags": [
+            "absorbing",
+            "cleaning",
+            "porous",
+            "sponge"
+        ],
+        "codepoints": [
+            "U+1F9FD"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/sponge_1f9fd.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f9ef",
+        "emoji": "🧯",
+        "title": "Fire Extinguisher",
+        "aliases": [
+            "Fire Extinguisher"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":fire_extinguisher:"
+            ],
+            "github": [
+                ":fire_extinguisher:"
+            ],
+            "slack": [
+                ":fire_extinguisher:"
+            ],
+            "discord": [
+                ":fire_extinguisher:"
+            ]
+        },
+        "tags": [
+            "extinguish",
+            "fire",
+            "fire extinguisher",
+            "quench"
+        ],
+        "codepoints": [
+            "U+1F9EF"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/fire-extinguisher_1f9ef.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Other Object",
+        "code": "1f9ff",
+        "emoji": "🧿",
+        "title": "Nazar Amulet",
+        "aliases": [
+            "Evil Eye Talisman",
+            "Nazar Boncuğu",
+            "Nazar Amulet"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":nazar_amulet:"
+            ],
+            "github": [
+                ":nazar_amulet:"
+            ],
+            "slack": [
+                ":nazar_amulet:"
+            ],
+            "discord": [
+                ":nazar_amulet:"
+            ]
+        },
+        "tags": [
+            "bead",
+            "charm",
+            "evil-eye",
+            "nazar",
+            "nazar amulet",
+            "talisman"
+        ],
+        "codepoints": [
+            "U+1F9FF"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/nazar-amulet_1f9ff.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Math",
+        "code": "267e-fe0f",
+        "emoji": "♾️",
+        "title": "Infinity",
+        "aliases": [
+            "Infinity"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":infinity:"
+            ],
+            "github": [
+                ":infinity:"
+            ],
+            "slack": [
+                ":infinity:"
+            ],
+            "discord": [
+                ":infinity:"
+            ]
+        },
+        "tags": [
+            "forever",
+            "infinity",
+            "unbounded",
+            "universal"
+        ],
+        "codepoints": [
+            "U+267E",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/infinity_267e-fe0f.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Flag",
+        "code": "1f3f4-200d-2620-fe0f",
+        "emoji": "🏴‍☠️",
+        "title": "Pirate Flag",
+        "aliases": [
+            "Jolly Roger",
+            "Pirate Flag"
+        ],
+        "shortcodes": {
+            "cldr": [
+                ":pirate_flag:"
+            ],
+            "github": [
+                ":pirate_flag:"
+            ],
+            "slack": [
+                ":pirate_flag:"
+            ],
+            "discord": [
+                ":pirate_flag:"
+            ]
+        },
+        "tags": [
+            "Jolly Roger",
+            "pirate",
+            "pirate flag",
+            "plunder",
+            "treasure"
+        ],
+        "codepoints": [
+            "U+1F3F4",
+            "U+200D",
+            "U+2620",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/pirate-flag_1f3f4-200d-2620-fe0f.png"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+{
+  "name": "nekobot",
+  "version": "1.0.5",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "archiver": "^7.0.1",
+    "axios": "^0.24.0",
+    "baileys": "npm:@dyyxyzz/baileys-mod",
+    "canvas": "^3.2.1",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.1.0",
+    "file-type": "^19.6.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "https-proxy-agent": "^7.0.6",
+    "install": "^0.13.0",
+    "iqc-canvas": "^1.0.2",
+    "jimp": "^0.22.12",
+    "link-preview-js": "^3.1.0",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^7.3.4",
+    "node-fetch": "latest",
+    "node-upload-images": "*",
+    "node-webpmux": "^3.1.0",
+    "npm": "^11.11.0",
+    "pino": "latest",
+    "qrcode": "^1.5.4",
+    "vm": "^0.1.0",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}
