@@ -24,21 +24,15 @@ global.channelName  = "DS — Channel";
 global.dev          = "DyySilence";           
 global.apiUrl = "https://api.dyysilence.biz.id/api";
 
-global.ptld = "https://shinx.sensei-wangyy.my.id";   // domain
-global.ptla = "ptla_myFxAN8F4jErIWbNO2gJVOb6x1sr5f1NaukxXOd8QLT";   // ptla
-global.ptlc = "ptlc_I3bIZ4jfaFDgebmooj2WOIMnhtfjSUA8SrZeS3AJEYd";        // ptlc
+global.ptld = "https:-";   // domain
+global.ptla = "-";   // ptla
+global.ptlc = "-";        // ptlc
 global.ptln = "5";                    
 global.ptle = "15";                   
 global.ptll = "1";   
-global.geminiKeys = [ 'AIzaSyB9hrkHBBCajDPg2v_FqqpEtCtpBT2TX-I',
-'AIzaSyCqvJHpMIUMMgfmG2Dx0eAhSXNjECLGDz4',
-  'AIzaSyCHRvpKYkR3Ij9nmxhvQqjWAWAqR-eh_Fo',
-  'AIzaSyBFsKy7ZZ-vt9FgQhpYa8NvmbjCcNvZPV0', 'AIzaSyCBiA_OlCZo3vyw5H7tBGwdBmS3gBi6b1I',
-]; // apikeys google ai
+global.geminiKeys = [ 'AIza--xx']; // apikeys google ai
 
 //orkut
-global.payUser = 'dyysomnia'; //username orkut
-global.payToken = '2711769:N5Hlfbg8E3rLoGFeydtXsTAOwh1D64jP'; //token orkut
 
 global.dana      = "08138XXXXXXX";
 global.gopay     = "08138XXXXXXX";
